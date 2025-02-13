@@ -1,3 +1,4 @@
+import type { Song } from '@rotaeno-toolkit/shared-types'
 import { Document } from 'happy-dom'
 
 /**
@@ -5,22 +6,7 @@ import { Document } from 'happy-dom'
  * @param document
  * @returns
  */
-export function parseRotaenoSong(document: Document): {
-  id: string
-  artist: string
-  releaseVersion: string
-  chapter: string
-  title_localized: Record<string, string>
-  source_localized?: {
-    default: string
-  }
-  charts: {
-    difficultyLevel: string
-    difficultyDecimal: number
-    chartDesigner: string
-    jacketDesigner: any
-  }[]
-} {
+export function parseRotaenoSong(document: Document): Song {
   // Helper function to safely get text content
   const getText = (element) => {
     return element?.textContent?.trim() || ''

@@ -3,21 +3,7 @@ import { fetchRotaenoWikiPage } from './src/fetchRotaenoWikiPage'
 import { parseSongList } from './src/parseSongList'
 import { write } from 'bun'
 import * as semver from 'semver'
-
-interface Song {
-  id: string
-  artist: string
-  releaseVersion: string
-  chapter: string
-  title_localized: Record<string, string>
-  source_localized?: { default: string }
-  charts: {
-    difficultyLevel: string
-    difficultyDecimal: number
-    chartDesigner: string
-    jacketDesigner: any
-  }[]
-}
+import type { Song } from '@rotaeno-toolkit/shared-types'
 
 if (import.meta.main) {
   const songListDom = await fetchRotaenoWikiPage('曲目列表')
