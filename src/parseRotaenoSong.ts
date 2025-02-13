@@ -53,10 +53,12 @@ export function parseRotaenoSong(document: Document): {
   }
 
   // Extract ID from image URL
-  const imageLink = mainTable.querySelector('td[rowspan="13"] a')
+  const imageLink = mainTable.querySelector(
+    'td[style="height:256px;width:256px"] a'
+  )
   const imageUrl = imageLink?.getAttribute('href') || ''
   const idMatch = imageUrl.match(/Songs_(.+?)\.png/)
-  const id = idMatch ? idMatch[1].toLowerCase() : ''
+  const id = idMatch ? idMatch[1] : ''
 
   // Get title
   const titleRow = mainTable.getElementsByTagName('tr')[0]
@@ -149,7 +151,7 @@ export function parseRotaenoSong(document: Document): {
     releaseVersion: getFieldValue('更新版本').replace('v', ''),
     title_localized,
     source_localized: {
-      default: getFieldValue('来源'),
+      default: getFieldValue('来源') || 'Original',
     },
     charts: ['I', 'II', 'III', 'IV'].map((diff, index) => ({
       difficultyLevel: diff,

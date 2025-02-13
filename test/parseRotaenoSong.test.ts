@@ -85,7 +85,7 @@ describe('parseRotaenoSong', () => {
         },
         {
           difficultyLevel: 'IV',
-          difficultyDecimal: 12,
+          difficultyDecimal: 11.6,
           chartDesigner: '明日',
           jacketDesigner: 'はるはる',
         },
