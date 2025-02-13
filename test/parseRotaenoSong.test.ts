@@ -48,4 +48,48 @@ describe('parseRotaenoSong', () => {
       ],
     })
   })
+
+  test('should correctly parse アイロニ song data', async () => {
+    const songDocument = await fetchRotaenoWikiPage('アイロニ')
+    const result = parseRotaenoSong(songDocument)
+
+    expect(result).toEqual({
+      id: 'irony',
+      artist: 'すこっぷ',
+      releaseVersion: '1.9.0',
+      title_localized: {
+        default: 'アイロニ',
+        en: 'Irony',
+      },
+      source_localized: {
+        default: 'Original',
+      },
+      charts: [
+        {
+          difficultyLevel: 'I',
+          difficultyDecimal: 3,
+          chartDesigner: '明日',
+          jacketDesigner: 'はるはる',
+        },
+        {
+          difficultyLevel: 'II',
+          difficultyDecimal: 5,
+          chartDesigner: '明日',
+          jacketDesigner: 'はるはる',
+        },
+        {
+          difficultyLevel: 'III',
+          difficultyDecimal: 7,
+          chartDesigner: '明日',
+          jacketDesigner: 'はるはる',
+        },
+        {
+          difficultyLevel: 'IV',
+          difficultyDecimal: 12,
+          chartDesigner: '明日',
+          jacketDesigner: 'はるはる',
+        },
+      ],
+    })
+  })
 })
