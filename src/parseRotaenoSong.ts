@@ -5,7 +5,21 @@ import { Document } from 'happy-dom'
  * @param document
  * @returns
  */
-export function parseRotaenoSong(document: Document) {
+export function parseRotaenoSong(document: Document): {
+  id: string
+  artist: string
+  releaseVersion: string
+  title_localized: Record<string, string>
+  source_localized?: {
+    default: string
+  }
+  charts: {
+    difficultyLevel: string
+    difficultyDecimal: number
+    chartDesigner: string
+    jacketDesigner: any
+  }[]
+} {
   // Helper function to safely get text content
   const getText = (element) => {
     return element?.textContent?.trim() || ''
@@ -47,6 +61,31 @@ export function parseRotaenoSong(document: Document) {
   // Get title
   const titleRow = mainTable.getElementsByTagName('tr')[0]
   const defaultTitle = getText(titleRow?.getElementsByTagName('th')[0])
+
+  // Parse localized titles from the second row
+  const titleLocalizedRow = mainTable.getElementsByTagName('tr')[1]
+  const titleLocalizedText = getText(
+    titleLocalizedRow?.getElementsByTagName('th')[0]
+  )
+  const titleParts = titleLocalizedText.split(' | ')
+
+  const title_localized: Record<string, string> = {
+    default: defaultTitle,
+  }
+
+  // Remove the "英文:" prefix from each part
+  const titles = titleParts.map((part) => part.replace(/^英文:/, '').trim())
+
+  // If only one alternative title exists, it's English
+  if (titles.length === 1) {
+    title_localized['en'] = titles[0]
+  }
+  // If three alternative titles exist, follow zh-Hans, en, zh-Hant order
+  else if (titles.length === 3) {
+    title_localized['zh-Hans'] = titles[0]
+    title_localized['en'] = titles[1]
+    title_localized['zh-Hant'] = titles[2]
+  }
 
   // Find difficulty constants section
   const h3Elements = Array.from(document.getElementsByTagName('h3'))
@@ -108,9 +147,7 @@ export function parseRotaenoSong(document: Document) {
     id,
     artist: getFieldValue('曲师'),
     releaseVersion: getFieldValue('更新版本').replace('v', ''),
-    title_localized: {
-      default: defaultTitle,
-    },
+    title_localized,
     source_localized: {
       default: getFieldValue('来源'),
     },
