@@ -11,6 +11,7 @@ describe('parseRotaenoSong', () => {
       id: 'xinzang-bing',
       artist: 'HyuN feat. HUBOG',
       releaseVersion: '1.0.3',
+      chapter: '基础歌曲',
       title_localized: {
         default: '심장병',
         en: 'simjangbyeong',
@@ -57,6 +58,7 @@ describe('parseRotaenoSong', () => {
       id: 'irony',
       artist: 'すこっぷ',
       releaseVersion: '1.9.0',
+      chapter: '自未来的歌',
       title_localized: {
         default: 'アイロニ',
         en: 'Irony',
@@ -98,47 +100,48 @@ describe('parseRotaenoSong', () => {
     const result = parseRotaenoSong(songDocument)
 
     expect(result).toEqual({
-      id: "heavens-cage",
-      artist: "ETIA.",
-      releaseVersion: "2.0.0",
+      id: 'heavens-cage',
+      artist: 'ETIA.',
+      releaseVersion: '2.0.0',
+      chapter: '第三章 - 泾渭分明之地',
       title_localized: {
-        default: "Heaven's Cage"
+        default: "Heaven's Cage",
       },
       source_localized: {
-        default: "Rotaeno Sound Collection"
+        default: 'Rotaeno Sound Collection',
       },
       charts: [
         {
-          difficultyLevel: "I",
+          difficultyLevel: 'I',
           difficultyDecimal: 3,
-          chartDesigner: "Adashi",
-          jacketDesigner: "三更"
+          chartDesigner: 'Adashi',
+          jacketDesigner: '三更',
         },
         {
-          difficultyLevel: "II",
+          difficultyLevel: 'II',
           difficultyDecimal: 7,
-          chartDesigner: "Adashi",
-          jacketDesigner: "三更"
+          chartDesigner: 'Adashi',
+          jacketDesigner: '三更',
         },
         {
-          difficultyLevel: "III",
+          difficultyLevel: 'III',
           difficultyDecimal: 10.4,
-          chartDesigner: "Adashi",
-          jacketDesigner: "三更"
+          chartDesigner: 'Adashi',
+          jacketDesigner: '三更',
         },
         {
-          difficultyLevel: "IV",
+          difficultyLevel: 'IV',
           difficultyDecimal: 13.1,
-          chartDesigner: "AngrierB",
-          jacketDesigner: "三更"
+          chartDesigner: 'AngrierB',
+          jacketDesigner: '三更',
         },
         {
-          difficultyLevel: "IV-α",
+          difficultyLevel: 'IV-α',
           difficultyDecimal: 13.9,
-          chartDesigner: "Ada▥hi",
-          jacketDesigner: "三更"
-        }
-      ]
+          chartDesigner: 'Ada▥hi',
+          jacketDesigner: '三更',
+        },
+      ],
     })
   })
 })
