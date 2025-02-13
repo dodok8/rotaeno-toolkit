@@ -13,8 +13,7 @@
     "prettier": "^3.5.0"
   },
   "scripts": {
-    "build:wiki": "bun run --cwd packages/wiki-crawler build",
-    "dev:wiki": "bun run --cwd packages/wiki-crawler dev",
+    "run:wiki": "bun run --cwd packages/wiki-crawler index.ts",
     "test:wiki": "bun test --cwd packages/wiki-crawler"
   }
 }

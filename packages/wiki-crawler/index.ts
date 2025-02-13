@@ -3,14 +3,53 @@ import { fetchRotaenoWikiPage } from './src/fetchRotaenoWikiPage'
 import { parseSongList } from './src/parseSongList'
 import { write } from 'bun'
 
-// 기존 코드 뒤에 추가
-const songListDom = await fetchRotaenoWikiPage('曲目列表')
+interface Song {
+  id: string
+  artist: string
+  releaseVersion: string
+  chapter: string
+  title_localized: Record<string, string>
+  source_localized?: { default: string }
+  charts: {
+    difficultyLevel: string
+    difficultyDecimal: number
+    chartDesigner: string
+    jacketDesigner: any
+  }[]
+}
 
-// HTML 문서를 문자열로 변환하여 저장
-// const htmlContent = songListDom.documentElement.innerHTML
-// await write('downloaded.html', htmlContent)
+if (import.meta.main) {
+  const songListDom = await fetchRotaenoWikiPage('曲目列表')
 
-console.log('HTML file has been saved as downloaded.html')
+  const BATCH_SIZE = 20
+  const songList = parseSongList(songListDom)
+  console.log(`Total songs to process: ${songList.length}`)
+  const chunkedSongList = Array.from(
+    { length: Math.ceil(songList.length / BATCH_SIZE) },
+    (_, i) => songList.slice(i * BATCH_SIZE, (i + 1) * BATCH_SIZE)
+  )
 
-const songList = parseSongList(songListDom)
-console.log(songList)
+  const allSongs: Song[] = []
+  for (let i = 0; i < chunkedSongList.length; i++) {
+    console.log(`Processing batch ${i + 1}/${chunkedSongList.length}...`)
+
+    const batchSongs = await Promise.all(
+      chunkedSongList[i].map(async (song) => {
+        const songPage = await fetchRotaenoWikiPage(song)
+        return parseRotaenoSong(songPage)
+      })
+    )
+
+    allSongs.push(...batchSongs)
+
+    console.log(`Batch ${i + 1} completed`)
+  }
+
+  const sortedSongs = allSongs.sort((a, b) => {
+    if (!a.releaseVersion || !b.releaseVersion) return 0
+    return a.releaseVersion.localeCompare(b.releaseVersion)
+  })
+
+  await write('data/songs.json', JSON.stringify(sortedSongs, null, 2))
+  console.log('All songs data has been saved to songs.json')
+}
