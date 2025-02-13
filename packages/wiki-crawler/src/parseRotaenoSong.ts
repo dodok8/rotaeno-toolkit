@@ -118,20 +118,23 @@ export function parseRotaenoSong(document: Document): {
     )
   )
 
-  let chartDesigners: Array<string> = []
-  if (chartDesignerRow) {
-    const cells = Array.from(chartDesignerRow.getElementsByTagName('td'))
-    const designerCells = cells.slice(1) // Skip the label cell
+let chartDesigners: Array<string> = []
+if (chartDesignerRow) {
+  const cells = Array.from(chartDesignerRow.getElementsByTagName('td'))
+  const designerCells = cells.slice(1) // Skip the label cell
 
-    if (designerCells[0]?.getAttribute('colspan') === '4') {
-      // Single designer for all difficulties
-
-      chartDesigners = Array(4).fill(getText(designerCells[0]))
-    } else {
-      // Multiple designers
-      chartDesigners = designerCells.map((cell) => getText(cell))
+  let currentIndex = 0
+  for (const cell of designerCells) {
+    const colspan = parseInt(cell.getAttribute('colspan') || '1')
+    const designer = getText(cell)
+    
+    // Fill the array with the same designer name for the colspan amount
+    for (let i = 0; i < colspan; i++) {
+      chartDesigners[currentIndex] = designer
+      currentIndex++
     }
   }
+}
 
   // Get jacket designer
   const jacketDesignerCell = findCell('画师', mainTable)
