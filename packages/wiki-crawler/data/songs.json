@@ -1794,2292 +1794,6 @@
     ]
   },
   {
-    "id": "fallin-fallin",
-    "artist": "kradness",
-    "releaseVersion": "1.10.0",
-    "chapter": "基础歌曲",
-    "title_localized": {
-      "default": "fallin' fallin' (prod. INFX, Ella Jung, Limpid)"
-    },
-    "source_localized": {
-      "default": "KALPA"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "↓AXERA↓",
-        "jacketDesigner": "tahseul"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 7,
-        "chartDesigner": "↓AXERA↓",
-        "jacketDesigner": "tahseul"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.4,
-        "chartDesigner": "↓AXERA↓",
-        "jacketDesigner": "tahseul"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 11.9,
-        "chartDesigner": "↓AXERA↓",
-        "jacketDesigner": "tahseul"
-      }
-    ]
-  },
-  {
-    "id": "revocate",
-    "artist": "kuro",
-    "releaseVersion": "1.10.0",
-    "chapter": "KALPA联动",
-    "title_localized": {
-      "default": "REVΘCATE"
-    },
-    "source_localized": {
-      "default": "KALPA"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "RHEZΘBAR",
-        "jacketDesigner": "ZG, Hyeeun"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 7,
-        "chartDesigner": "RHEZΘBAR",
-        "jacketDesigner": "ZG, Hyeeun"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 10.4,
-        "chartDesigner": "RHEZΘBAR",
-        "jacketDesigner": "ZG, Hyeeun"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.4,
-        "chartDesigner": "RHEZΘBAR",
-        "jacketDesigner": "ZG, Hyeeun"
-      }
-    ]
-  },
-  {
-    "id": "dont-never-around",
-    "artist": "HAMA",
-    "releaseVersion": "1.10.0",
-    "chapter": "KALPA联动",
-    "title_localized": {
-      "default": "Don't Never Around"
-    },
-    "source_localized": {
-      "default": "KALPA"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "Arahosi"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "Arahosi"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.4,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "Arahosi"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "Arahosi"
-      }
-    ]
-  },
-  {
-    "id": "evocator",
-    "artist": "Evin a'k",
-    "releaseVersion": "1.10.0",
-    "chapter": "KALPA联动",
-    "title_localized": {
-      "default": "Ēvocator"
-    },
-    "source_localized": {
-      "default": "KALPA"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "Evin a'k"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "Evin a'k"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.3,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "Evin a'k"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "Evin a'k"
-      }
-    ]
-  },
-  {
-    "id": "eschatology",
-    "artist": "Tatsh & Scarlette",
-    "releaseVersion": "1.10.0",
-    "chapter": "KALPA联动",
-    "title_localized": {
-      "default": "Eschatology"
-    },
-    "source_localized": {
-      "default": "KALPA"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Toya Fujimura"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Toya Fujimura"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.3,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Toya Fujimura"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.9,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Toya Fujimura"
-      }
-    ]
-  },
-  {
-    "id": "my-heaven-magical-mix",
-    "artist": "Scarlette X Juggernaut.",
-    "releaseVersion": "1.10.0",
-    "chapter": "KALPA联动",
-    "title_localized": {
-      "default": "My Heaven (Magical Mix) feat. kuripurin"
-    },
-    "source_localized": {
-      "default": "KALPA"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "闇靈[NORMAL]",
-        "jacketDesigner": "ZG, LINUS"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "闇靈[HARD]",
-        "jacketDesigner": "ZG, LINUS"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.2,
-        "chartDesigner": "闇靈[HARD+]",
-        "jacketDesigner": "ZG, LINUS"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.7,
-        "chartDesigner": "闇靈[ABYSS]",
-        "jacketDesigner": "ZG, LINUS"
-      }
-    ]
-  },
-  {
-    "id": "avataar",
-    "artist": "Scarlette a.k.a. CrYmson",
-    "releaseVersion": "1.10.0",
-    "chapter": "KALPA联动",
-    "title_localized": {
-      "default": "Avataar ~Reincarnation of Kalpa~"
-    },
-    "source_localized": {
-      "default": "KALPA"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "みかんのはる",
-        "jacketDesigner": "ZG"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 7.5,
-        "chartDesigner": "みかんのはる",
-        "jacketDesigner": "ZG"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.9,
-        "chartDesigner": "みかんのはる",
-        "jacketDesigner": "ZG"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.6,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "ZG"
-      }
-    ]
-  },
-  {
-    "id": "azure-sky",
-    "artist": "NeLiME",
-    "releaseVersion": "1.11.0",
-    "chapter": "基础歌曲",
-    "title_localized": {
-      "default": "Azure Sky"
-    },
-    "source_localized": {
-      "default": "Original"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "伊恩"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 4,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "伊恩"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 7.5,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "伊恩"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 11.9,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "伊恩"
-      }
-    ]
-  },
-  {
-    "id": "hoshifuruyoru-to-ichirin-no-hana",
-    "artist": "seatrus",
-    "releaseVersion": "1.11.0",
-    "chapter": "我们的相遇",
-    "title_localized": {
-      "default": "星降る夜と一輪の花",
-      "en": "Hoshifuruyoru To Ichirin No Hana"
-    },
-    "source_localized": {
-      "default": "Original"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "48OKU"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "48OKU"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.1,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "48OKU"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.3,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "48OKU"
-      }
-    ]
-  },
-  {
-    "id": "eternal-calm",
-    "artist": "長沼浩太(パパ頑張りました)",
-    "releaseVersion": "1.11.0",
-    "chapter": "我们的相遇",
-    "title_localized": {
-      "default": "Eternal calm"
-    },
-    "source_localized": {
-      "default": "BOF:ET"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 1,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Nich"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Nich"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 7.5,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Nich"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 11.2,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Nich"
-      }
-    ]
-  },
-  {
-    "id": "magenta-potion",
-    "artist": "EmoCosine",
-    "releaseVersion": "1.11.0",
-    "chapter": "我们的相遇",
-    "title_localized": {
-      "default": "MAGENTA POTION"
-    },
-    "source_localized": {
-      "default": "BOFXV19"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "SER"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "SER"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 10.2,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "SER"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.1,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "SER"
-      }
-    ]
-  },
-  {
-    "id": "sense",
-    "artist": "BilliumMoto × Silentroom",
-    "releaseVersion": "1.11.0",
-    "chapter": "我们的相遇",
-    "title_localized": {
-      "default": "Sense"
-    },
-    "source_localized": {
-      "default": "BOFXVII"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 1,
-        "chartDesigner": "ScendRez",
-        "jacketDesigner": "Character Visual Design 蟹江"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 4,
-        "chartDesigner": "ScendRez",
-        "jacketDesigner": "Character Visual Design 蟹江"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.4,
-        "chartDesigner": "ScendRez",
-        "jacketDesigner": "Character Visual Design 蟹江"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.1,
-        "chartDesigner": "ScendRez",
-        "jacketDesigner": "Character Visual Design 蟹江"
-      }
-    ]
-  },
-  {
-    "id": "looking-for-stella",
-    "artist": "Junk",
-    "releaseVersion": "1.11.0",
-    "chapter": "我们的相遇",
-    "title_localized": {
-      "default": "Looking for Stella"
-    },
-    "source_localized": {
-      "default": "Rotaeno Sound Collection"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "伊恩"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 4,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "伊恩"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.4,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "伊恩"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.5,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "伊恩"
-      }
-    ]
-  },
-  {
-    "id": "fate-of-aria",
-    "artist": "HyuN feat.花たん",
-    "releaseVersion": "1.11.0",
-    "chapter": "我们的相遇",
-    "title_localized": {
-      "default": "Fate of Aria"
-    },
-    "source_localized": {
-      "default": "Rotaeno Sound Collection"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "LINUS"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 7,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "LINUS"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.8,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "LINUS"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.5,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "LINUS"
-      }
-    ]
-  },
-  {
-    "id": "nyarlathoteps-dreamland",
-    "artist": "Raimukun",
-    "releaseVersion": "1.12.0",
-    "chapter": "基础歌曲",
-    "title_localized": {
-      "default": "Nyarlathotep's Dreamland"
-    },
-    "source_localized": {
-      "default": "Original"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "冰果"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 7,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "冰果"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.1,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "冰果"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.8,
-        "chartDesigner": "Adashi as 12+(*´･д･)?",
-        "jacketDesigner": "冰果"
-      }
-    ]
-  },
-  {
-    "id": "nighttheater",
-    "artist": "わかどり",
-    "releaseVersion": "1.12.0",
-    "chapter": "放克派对",
-    "title_localized": {
-      "default": "NightTheater"
-    },
-    "source_localized": {
-      "default": "BOFXVI"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "もがみ"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "もがみ"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 7.5,
-        "chartDesigner": "MF-",
-        "jacketDesigner": "もがみ"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.6,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "もがみ"
-      }
-    ]
-  },
-  {
-    "id": "giselle",
-    "artist": "Sobrem a.k.a. Widowmaker",
-    "releaseVersion": "1.12.0",
-    "chapter": "放克派对",
-    "title_localized": {
-      "default": "Giselle"
-    },
-    "source_localized": {
-      "default": "G2R2018"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "闇靈&イ号P",
-        "jacketDesigner": "Sobrem"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "闇靈&イ号P",
-        "jacketDesigner": "Sobrem"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 10.9,
-        "chartDesigner": "闇靈&イ号P",
-        "jacketDesigner": "Sobrem"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.2,
-        "chartDesigner": "闇靈&イ号P",
-        "jacketDesigner": "Sobrem"
-      }
-    ]
-  },
-  {
-    "id": "wakatterukedo",
-    "artist": "HyuN feat. LyuU",
-    "releaseVersion": "1.12.0",
-    "chapter": "放克派对",
-    "title_localized": {
-      "default": "分かってるけど",
-      "en": "Wakatterukedo"
-    },
-    "source_localized": {
-      "default": "Rotaeno Sound Collection"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "Nabom"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "Nabom"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 7,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "Nabom"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.6,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "Nabom"
-      }
-    ]
-  },
-  {
-    "id": "spooky-dance-party",
-    "artist": "seatrus",
-    "releaseVersion": "1.12.0",
-    "chapter": "放克派对",
-    "title_localized": {
-      "default": "スプーキィダンスパーティ",
-      "en": "Spooky Dance Party"
-    },
-    "source_localized": {
-      "default": "Original"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "植物",
-        "jacketDesigner": "るれぷ"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "植物",
-        "jacketDesigner": "るれぷ"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.6,
-        "chartDesigner": "植物",
-        "jacketDesigner": "るれぷ"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.9,
-        "chartDesigner": "植物",
-        "jacketDesigner": "るれぷ"
-      }
-    ]
-  },
-  {
-    "id": "marble-joker",
-    "artist": "pan",
-    "releaseVersion": "1.12.0",
-    "chapter": "放克派对",
-    "title_localized": {
-      "default": "Marble Joker"
-    },
-    "source_localized": {
-      "default": "Rotaeno Sound Collection"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 4,
-        "chartDesigner": "Gambling Master = SAISHUN",
-        "jacketDesigner": "炎獵"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 7.5,
-        "chartDesigner": "Gambling Master = SAISHUN",
-        "jacketDesigner": "炎獵"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.5,
-        "chartDesigner": "Gambling Master = SAISHUN",
-        "jacketDesigner": "炎獵"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.4,
-        "chartDesigner": "Gambling Master = SAISHUN",
-        "jacketDesigner": "炎獵"
-      }
-    ]
-  },
-  {
-    "id": "phantago",
-    "artist": "Nagiha",
-    "releaseVersion": "1.12.0",
-    "chapter": "放克派对",
-    "title_localized": {
-      "default": "Phantago"
-    },
-    "source_localized": {
-      "default": "The Dueliot"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "織日ちひろ"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 7.5,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "織日ちひろ"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.5,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "織日ちひろ"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 14.1,
-        "chartDesigner": "Joker vs AxEradaShi",
-        "jacketDesigner": "織日ちひろ"
-      }
-    ]
-  },
-  {
-    "id": "no-one-yes-man",
-    "artist": "MYUKKE.",
-    "releaseVersion": "1.13.0",
-    "chapter": "基础歌曲",
-    "title_localized": {
-      "default": "NO ONE YES MAN"
-    },
-    "source_localized": {
-      "default": "Phigros"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "闇靈DarkM",
-        "jacketDesigner": "青鸟"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "闇靈DarkM",
-        "jacketDesigner": "青鸟"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.8,
-        "chartDesigner": "闇靈DarkM",
-        "jacketDesigner": "青鸟"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 11.8,
-        "chartDesigner": "闇靈DarkM",
-        "jacketDesigner": "青鸟"
-      }
-    ]
-  },
-  {
-    "id": "break-over",
-    "artist": "K-forest",
-    "releaseVersion": "1.13.0",
-    "chapter": "Phigros联动",
-    "title_localized": {
-      "default": "Break Over"
-    },
-    "source_localized": {
-      "default": "Phigros/©Oshiribeat"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "圆规Compass"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "圆规Compass"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.8,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "圆规Compass"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 11.8,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "圆规Compass"
-      }
-    ]
-  },
-  {
-    "id": "feast-from-the-east",
-    "artist": "茶鸣拾贰律",
-    "releaseVersion": "1.13.0",
-    "chapter": "Phigros联动",
-    "title_localized": {
-      "default": "Feast远东之宴",
-      "en": "Feast遠東之宴"
-    },
-    "source_localized": {
-      "default": "Phigros/©茶鸣拾贰律"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "AngrierB From the East",
-        "jacketDesigner": "茶鸣拾贰律"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "AngrierB From the East",
-        "jacketDesigner": "茶鸣拾贰律"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.5,
-        "chartDesigner": "AngrierB From the East",
-        "jacketDesigner": "茶鸣拾贰律"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13,
-        "chartDesigner": "AngrierB From the East",
-        "jacketDesigner": "茶鸣拾贰律"
-      }
-    ]
-  },
-  {
-    "id": "distorted-fate",
-    "artist": "Sakuzyo",
-    "releaseVersion": "1.13.0",
-    "chapter": "Phigros联动",
-    "title_localized": {
-      "default": "Distorted Fate"
-    },
-    "source_localized": {
-      "default": "Phigros"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "knife美工刀"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "knife美工刀"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.5,
-        "chartDesigner": "植物",
-        "jacketDesigner": "knife美工刀"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.6,
-        "chartDesigner": "植物",
-        "jacketDesigner": "knife美工刀"
-      }
-    ]
-  },
-  {
-    "id": "rrharil",
-    "artist": "Team Grimoire",
-    "releaseVersion": "1.13.0",
-    "chapter": "Phigros联动",
-    "title_localized": {
-      "default": "Rrhar'il"
-    },
-    "source_localized": {
-      "default": "Phigros"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 4,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "犀牛坨动画工坊"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "犀牛坨动画工坊"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.8,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "犀牛坨动画工坊"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.5,
-        "chartDesigner": "Adashi apply \"The Limiter\"",
-        "jacketDesigner": "犀牛坨动画工坊"
-      }
-    ]
-  },
-  {
-    "id": "igallta",
-    "artist": "Se-U-Ra",
-    "releaseVersion": "1.13.0",
-    "chapter": "Phigros联动",
-    "title_localized": {
-      "default": "Igallta"
-    },
-    "source_localized": {
-      "default": "Phigros"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Se-U-Ra"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Se-U-Ra"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.3,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "Se-U-Ra"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 14,
-        "chartDesigner": "IgouTang",
-        "jacketDesigner": "Se-U-Ra"
-      }
-    ]
-  },
-  {
-    "id": "mistilteinn",
-    "artist": "iTIC",
-    "releaseVersion": "1.13.2",
-    "chapter": "星际之声",
-    "title_localized": {
-      "default": "Mistilteinn"
-    },
-    "source_localized": {
-      "default": "Original"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "炎獵"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "炎獵"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.9,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "炎獵"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "炎獵"
-      }
-    ]
-  },
-  {
-    "id": "swirling-blue",
-    "artist": "Nagiha",
-    "releaseVersion": "1.13.2",
-    "chapter": "星际之声",
-    "title_localized": {
-      "default": "Swirling Blue"
-    },
-    "source_localized": {
-      "default": "Rotaeno Sound Collection"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "矢嶋こずみ"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 4,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "矢嶋こずみ"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.2,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "矢嶋こずみ"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 11.6,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "矢嶋こずみ"
-      }
-    ]
-  },
-  {
-    "id": "angel-dust",
-    "artist": "LV.4",
-    "releaseVersion": "1.13.3",
-    "chapter": "星际之声",
-    "title_localized": {
-      "default": "Angel dust"
-    },
-    "source_localized": {
-      "default": "BOF2006"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "LV.4"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "LV.4"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.8,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "LV.4"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 14,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "LV.4"
-      }
-    ]
-  },
-  {
-    "id": "daydream",
-    "artist": "RiraN",
-    "releaseVersion": "1.13.3",
-    "chapter": "星际之声",
-    "title_localized": {
-      "default": "Daydream"
-    },
-    "source_localized": {
-      "default": "Original"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "Jakasy's daydream",
-        "jacketDesigner": "Kei"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "Jakasy's daydream",
-        "jacketDesigner": "Kei"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 10.9,
-        "chartDesigner": "Jakasy's daydream",
-        "jacketDesigner": "Kei"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.2,
-        "chartDesigner": "JAKASY IN THE DAYDREAM",
-        "jacketDesigner": "Kei"
-      }
-    ]
-  },
-  {
-    "id": "internet-overdose",
-    "artist": "Aiobahn feat. KOTOKO",
-    "releaseVersion": "1.13.3",
-    "chapter": "星际之声",
-    "title_localized": {
-      "default": "INTERNET OVERDOSE"
-    },
-    "source_localized": {
-      "default": "Original"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "闇靈DarkM",
-        "jacketDesigner": "こかむも"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 4,
-        "chartDesigner": "闇靈DarkM",
-        "jacketDesigner": "こかむも"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.9,
-        "chartDesigner": "闇靈DarkM",
-        "jacketDesigner": "こかむも"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.2,
-        "chartDesigner": "闇靈DarkM",
-        "jacketDesigner": "こかむも"
-      }
-    ]
-  },
-  {
-    "id": "revel",
-    "artist": "Yu_Asahina as Orange Vox+ ft.AKA",
-    "releaseVersion": "1.14.0",
-    "chapter": "基础歌曲",
-    "title_localized": {
-      "default": "reveL"
-    },
-    "source_localized": {
-      "default": "BOF:ET"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "TangScend [bonne nuit]",
-        "jacketDesigner": "AiLANE"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 4,
-        "chartDesigner": "TangScend [bonne nuit]",
-        "jacketDesigner": "AiLANE"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.4,
-        "chartDesigner": "TangScend [bonne nuit]",
-        "jacketDesigner": "AiLANE"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.7,
-        "chartDesigner": "TangScend [bonne nuit]",
-        "jacketDesigner": "AiLANE"
-      }
-    ]
-  },
-  {
-    "id": "wish-upon-vivid-stars",
-    "artist": "Reku Mochizuki",
-    "releaseVersion": "1.14.0",
-    "chapter": "紫夜狂欢",
-    "title_localized": {
-      "default": "Wish Upon Vivid Stars"
-    },
-    "source_localized": {
-      "default": "Original"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "伊恩"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 4,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "伊恩"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.3,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "伊恩"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 11.1,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "伊恩"
-      }
-    ]
-  },
-  {
-    "id": "vesta",
-    "artist": "Saiph",
-    "releaseVersion": "1.14.0",
-    "chapter": "紫夜狂欢",
-    "title_localized": {
-      "default": "Vesta"
-    },
-    "source_localized": {
-      "default": "BOFU2016"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Saiph"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Saiph"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.6,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Saiph"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.7,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Saiph"
-      }
-    ]
-  },
-  {
-    "id": "conflict",
-    "artist": "siromaru + cranky",
-    "releaseVersion": "1.14.0",
-    "chapter": "紫夜狂欢",
-    "title_localized": {
-      "default": "conflict"
-    },
-    "source_localized": {
-      "default": "BOF2011"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "AxEradaS [desperate conflict]",
-        "jacketDesigner": "iimo"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "Adashi [ruthless enemy]",
-        "jacketDesigner": "iimo"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.7,
-        "chartDesigner": "AxEradaS fight against Adashi",
-        "jacketDesigner": "iimo"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.2,
-        "chartDesigner": "AxEradaS fight against Adashi",
-        "jacketDesigner": "iimo"
-      }
-    ]
-  },
-  {
-    "id": "yinmn-blue",
-    "artist": "siqlo",
-    "releaseVersion": "1.14.0",
-    "chapter": "紫夜狂欢",
-    "title_localized": {
-      "default": "YInMn Blue"
-    },
-    "source_localized": {
-      "default": "BOFU2017"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "AXeRa -Blue??-",
-        "jacketDesigner": "出前"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "AXeRa -Blue??-",
-        "jacketDesigner": "出前"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.7,
-        "chartDesigner": "AXeRa -Blue??-",
-        "jacketDesigner": "出前"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.4,
-        "chartDesigner": "AXeRa -Blue??-",
-        "jacketDesigner": "出前"
-      }
-    ]
-  },
-  {
-    "id": "cosmic-railroad",
-    "artist": "kanone",
-    "releaseVersion": "1.14.0",
-    "chapter": "紫夜狂欢",
-    "title_localized": {
-      "default": "CO5M1C R4ILR0AD"
-    },
-    "source_localized": {
-      "default": "BOFU2016"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Shuto"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Shuto"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 10.3,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Shuto"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.3,
-        "chartDesigner": "Adashi",
-        "jacketDesigner": "Shuto"
-      }
-    ]
-  },
-  {
-    "id": "mvurbd",
-    "artist": "ETIA.",
-    "releaseVersion": "1.14.0",
-    "chapter": "紫夜狂欢",
-    "title_localized": {
-      "default": "MVURBD"
-    },
-    "source_localized": {
-      "default": "Rotaeno Sound Collection"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 5,
-        "chartDesigner": "左下",
-        "jacketDesigner": "noel"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 7.5,
-        "chartDesigner": "左下",
-        "jacketDesigner": "noel"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.7,
-        "chartDesigner": "左下",
-        "jacketDesigner": "noel"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 14.2,
-        "chartDesigner": "左下",
-        "jacketDesigner": "noel"
-      }
-    ]
-  },
-  {
-    "id": "provison",
-    "artist": "connexio",
-    "releaseVersion": "1.14.1",
-    "chapter": "基础歌曲",
-    "title_localized": {
-      "default": "Provison"
-    },
-    "source_localized": {
-      "default": "MUSYNX"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "艾斯弗鲁特_vita"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "艾斯弗鲁特_vita"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 7.5,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "艾斯弗鲁特_vita"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "艾斯弗鲁特_vita"
-      }
-    ]
-  },
-  {
-    "id": "today-is-not-tomorrow",
-    "artist": "PIKASONIC feat.兰音Reine",
-    "releaseVersion": "1.14.1",
-    "chapter": "音波狂潮",
-    "title_localized": {
-      "default": "今天不是明天",
-      "en": "Today is Not Tomorrow"
-    },
-    "source_localized": {
-      "default": "次元LAB二次元电音节"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "AxEradaS",
-        "jacketDesigner": "一击即溃"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "AxEradaS",
-        "jacketDesigner": "一击即溃"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.3,
-        "chartDesigner": "AxEradaS",
-        "jacketDesigner": "一击即溃"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 11,
-        "chartDesigner": "AxEradaS",
-        "jacketDesigner": "一击即溃"
-      }
-    ]
-  },
-  {
-    "id": "love-you-i-imagined",
-    "artist": "KOTONOHOUSE feat.穆小泠",
-    "releaseVersion": "1.14.1",
-    "chapter": "音波狂潮",
-    "title_localized": {
-      "default": "爱上想象的你",
-      "en": "愛上想像的你"
-    },
-    "source_localized": {
-      "default": "次元LAB二次元电音节"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "kkmfd"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "kkmfd"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.4,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "kkmfd"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.2,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "kkmfd"
-      }
-    ]
-  },
-  {
-    "id": "galaxy-striker",
-    "artist": "M2U",
-    "releaseVersion": "1.14.1",
-    "chapter": "星际之声",
-    "title_localized": {
-      "default": "Galaxy Striker"
-    },
-    "source_localized": {
-      "default": "MUSYNX"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "AxEradaS",
-        "jacketDesigner": "TUNO桐音"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "AxEradaS",
-        "jacketDesigner": "TUNO桐音"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.6,
-        "chartDesigner": "AxEradaS",
-        "jacketDesigner": "TUNO桐音"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.3,
-        "chartDesigner": "AxEradaS",
-        "jacketDesigner": "TUNO桐音"
-      }
-    ]
-  },
-  {
-    "id": "silver-town",
-    "artist": "Memme",
-    "releaseVersion": "1.14.1",
-    "chapter": "星际之声",
-    "title_localized": {
-      "default": "Silver Town"
-    },
-    "source_localized": {
-      "default": "MUSYNX"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 4,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "START SEED"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "START SEED"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 10.4,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "START SEED"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.2,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "START SEED"
-      }
-    ]
-  },
-  {
-    "id": "make-up-your-world",
-    "artist": "t+pazolite & Srav3R",
-    "releaseVersion": "1.15.0",
-    "chapter": "基础歌曲",
-    "title_localized": {
-      "default": "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと"
-    },
-    "source_localized": {
-      "default": "Original"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "Logo Shota Kajimura"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "Logo Shota Kajimura"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.3,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "Logo Shota Kajimura"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 11.9,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "Logo Shota Kajimura"
-      }
-    ]
-  },
-  {
-    "id": "break-through-myself",
-    "artist": "DJ Myosuke & Laur",
-    "releaseVersion": "1.15.0",
-    "chapter": "基础歌曲",
-    "title_localized": {
-      "default": "Break Through Myself feat. Risa Yuzuki"
-    },
-    "source_localized": {
-      "default": "Original"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "reku"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "reku"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.1,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "reku"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "reku"
-      }
-    ]
-  },
-  {
-    "id": "strange-bar",
-    "artist": "Laur",
-    "releaseVersion": "1.15.0",
-    "chapter": "HARDCORE TANO*C联动II",
-    "title_localized": {
-      "default": "Strange Bar"
-    },
-    "source_localized": {
-      "default": "IRREGULAR NATION 5"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "イセ川ヤスタカ"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "イセ川ヤスタカ"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.1,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "イセ川ヤスタカ"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.1,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "イセ川ヤスタカ"
-      }
-    ]
-  },
-  {
-    "id": "un1te",
-    "artist": "Massive New Krew",
-    "releaseVersion": "1.15.0",
-    "chapter": "HARDCORE TANO*C联动II",
-    "title_localized": {
-      "default": "UN1TE feat.YUC'e"
-    },
-    "source_localized": {
-      "default": "HARDCORE SYNDROME 8"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "AX3RA",
-        "jacketDesigner": "KEI"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "AX3RA",
-        "jacketDesigner": "KEI"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.7,
-        "chartDesigner": "AX3RA",
-        "jacketDesigner": "KEI"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 11,
-        "chartDesigner": "AX3RA",
-        "jacketDesigner": "KEI"
-      }
-    ]
-  },
-  {
-    "id": "because-of-you",
-    "artist": "Srav3R & USAO",
-    "releaseVersion": "1.15.0",
-    "chapter": "HARDCORE TANO*C联动II",
-    "title_localized": {
-      "default": "Becouse of You"
-    },
-    "source_localized": {
-      "default": "HYPER DUO"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "AXERA & 再瞬",
-        "jacketDesigner": "魔界の住民"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "AXERA & 再瞬",
-        "jacketDesigner": "魔界の住民"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.5,
-        "chartDesigner": "AXERA & 再瞬",
-        "jacketDesigner": "魔界の住民"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.5,
-        "chartDesigner": "AXERA & 再瞬",
-        "jacketDesigner": "魔界の住民"
-      }
-    ]
-  },
-  {
-    "id": "luminosity",
-    "artist": "DJ Noriken",
-    "releaseVersion": "1.15.0",
-    "chapter": "HARDCORE TANO*C联动II",
-    "title_localized": {
-      "default": "Luminosity (Don't you worry)"
-    },
-    "source_localized": {
-      "default": "Rotaeno Sound Collection"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "Nich"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "Nich"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.4,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "Nich"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.8,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "Nich"
-      }
-    ]
-  },
-  {
-    "id": "dual-doom-deathmatch",
-    "artist": "Kobaryo vs HyuN",
-    "releaseVersion": "1.15.0",
-    "chapter": "HARDCORE TANO*C联动II",
-    "title_localized": {
-      "default": "Dual Doom Deathmatch"
-    },
-    "source_localized": {
-      "default": "Rotaeno Sound Collection"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 4,
-        "chartDesigner": "AngrierB",
-        "jacketDesigner": "炎獵"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 7.5,
-        "chartDesigner": "AngrierB",
-        "jacketDesigner": "炎獵"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.8,
-        "chartDesigner": "AngrierB",
-        "jacketDesigner": "炎獵"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.9,
-        "chartDesigner": "闇靈DarkM",
-        "jacketDesigner": "炎獵"
-      }
-    ]
-  },
-  {
-    "id": "flashback-flicker",
-    "artist": "t+pazolite",
-    "releaseVersion": "1.15.0",
-    "chapter": "HARDCORE TANO*C联动II",
-    "title_localized": {
-      "default": "Flashback Flicker"
-    },
-    "source_localized": {
-      "default": "Rotaeno Sound Collection"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Soda"
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Soda"
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.4,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Soda"
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 14.2,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Soda"
-      }
-    ]
-  },
-  {
-    "id": "apocalypse",
-    "artist": "Alice Schach and the Magic Orchestra",
-    "releaseVersion": "1.16.0",
-    "chapter": "基础歌曲",
-    "title_localized": {
-      "default": "Apocalypse"
-    },
-    "source_localized": {
-      "default": "Lanota"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 4,
-        "chartDesigner": "TPRT Wen",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8.3,
-        "chartDesigner": "明日",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12,
-        "chartDesigner": "明日",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      }
-    ]
-  },
-  {
-    "id": "yukianesa",
-    "artist": "tezuka",
-    "releaseVersion": "1.16.0",
-    "chapter": "基础歌曲",
-    "title_localized": {
-      "default": "Yukianesa"
-    },
-    "source_localized": {
-      "default": "Lanota"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "AX ～残れる氷雪～",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "AX ～残れる氷雪～",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 11.5,
-        "chartDesigner": "AX ～残れる氷雪～",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.8,
-        "chartDesigner": "AX ～残れる氷雪～",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      }
-    ]
-  },
-  {
-    "id": "song-for-sprites",
-    "artist": "Sta",
-    "releaseVersion": "1.16.0",
-    "chapter": "Lanota联动",
-    "title_localized": {
-      "default": "Song for Sprites"
-    },
-    "source_localized": {
-      "default": "Lanota"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 8,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 12.3,
-        "chartDesigner": "j!ang",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      }
-    ]
-  },
-  {
-    "id": "cyanine",
-    "artist": "jioyi",
-    "releaseVersion": "1.16.0",
-    "chapter": "Lanota联动",
-    "title_localized": {
-      "default": "cyanine"
-    },
-    "source_localized": {
-      "default": "Lanota"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.2,
-        "chartDesigner": "イ号P",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.5,
-        "chartDesigner": "IgouTang",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      }
-    ]
-  },
-  {
-    "id": "androgynos2",
-    "artist": "WAiKURO",
-    "releaseVersion": "1.16.0",
-    "chapter": "Lanota联动",
-    "title_localized": {
-      "default": "Androgynos"
-    },
-    "source_localized": {
-      "default": "Lanota"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 9.1,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13,
-        "chartDesigner": "TangScend",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      }
-    ]
-  },
-  {
-    "id": "lonely-departure",
-    "artist": "Chroma",
-    "releaseVersion": "1.16.0",
-    "chapter": "Lanota联动",
-    "title_localized": {
-      "default": "Lonely departure"
-    },
-    "source_localized": {
-      "default": "Lanota"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 5,
-        "chartDesigner": "Jakasy",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 10.6,
-        "chartDesigner": "闇靈DarkM",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.8,
-        "chartDesigner": "闇靈DarkM",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      }
-    ]
-  },
-  {
-    "id": "stasis",
-    "artist": "Maozon",
-    "releaseVersion": "1.16.0",
-    "chapter": "Lanota联动",
-    "title_localized": {
-      "default": "Stasis"
-    },
-    "source_localized": {
-      "default": "Lanota"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 2,
-        "chartDesigner": "Adashi \"Master PPed\"",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "Adashi \"Master PPed\"",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 10.9,
-        "chartDesigner": "Adashi \"Master PPed\"",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 13.9,
-        "chartDesigner": "Adashi \"Master PPed\"",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      }
-    ]
-  },
-  {
-    "id": "freys-philosophy",
-    "artist": "Powerless",
-    "releaseVersion": "1.16.0",
-    "chapter": "Lanota联动",
-    "title_localized": {
-      "default": "Frey's Philosophy"
-    },
-    "source_localized": {
-      "default": "Lanota"
-    },
-    "charts": [
-      {
-        "difficultyLevel": "I",
-        "difficultyDecimal": 3,
-        "chartDesigner": "植物",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "II",
-        "difficultyDecimal": 6,
-        "chartDesigner": "植物",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "III",
-        "difficultyDecimal": 12,
-        "chartDesigner": "植物",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      },
-      {
-        "difficultyLevel": "IV",
-        "difficultyDecimal": 14.1,
-        "chartDesigner": "日光植物",
-        "jacketDesigner": "Lanota © Noxy Games Inc."
-      }
-    ]
-  },
-  {
     "id": "life-is-piano",
     "artist": "Junk",
     "releaseVersion": "1.2.0",
@@ -6592,6 +4306,2292 @@
         "difficultyDecimal": 13.4,
         "chartDesigner": "再瞬：Frontline of Courage",
         "jacketDesigner": "伊恩"
+      }
+    ]
+  },
+  {
+    "id": "fallin-fallin",
+    "artist": "kradness",
+    "releaseVersion": "1.10.0",
+    "chapter": "基础歌曲",
+    "title_localized": {
+      "default": "fallin' fallin' (prod. INFX, Ella Jung, Limpid)"
+    },
+    "source_localized": {
+      "default": "KALPA"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "↓AXERA↓",
+        "jacketDesigner": "tahseul"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 7,
+        "chartDesigner": "↓AXERA↓",
+        "jacketDesigner": "tahseul"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.4,
+        "chartDesigner": "↓AXERA↓",
+        "jacketDesigner": "tahseul"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 11.9,
+        "chartDesigner": "↓AXERA↓",
+        "jacketDesigner": "tahseul"
+      }
+    ]
+  },
+  {
+    "id": "revocate",
+    "artist": "kuro",
+    "releaseVersion": "1.10.0",
+    "chapter": "KALPA联动",
+    "title_localized": {
+      "default": "REVΘCATE"
+    },
+    "source_localized": {
+      "default": "KALPA"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "RHEZΘBAR",
+        "jacketDesigner": "ZG, Hyeeun"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 7,
+        "chartDesigner": "RHEZΘBAR",
+        "jacketDesigner": "ZG, Hyeeun"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 10.4,
+        "chartDesigner": "RHEZΘBAR",
+        "jacketDesigner": "ZG, Hyeeun"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.4,
+        "chartDesigner": "RHEZΘBAR",
+        "jacketDesigner": "ZG, Hyeeun"
+      }
+    ]
+  },
+  {
+    "id": "dont-never-around",
+    "artist": "HAMA",
+    "releaseVersion": "1.10.0",
+    "chapter": "KALPA联动",
+    "title_localized": {
+      "default": "Don't Never Around"
+    },
+    "source_localized": {
+      "default": "KALPA"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "Arahosi"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "Arahosi"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.4,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "Arahosi"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "Arahosi"
+      }
+    ]
+  },
+  {
+    "id": "evocator",
+    "artist": "Evin a'k",
+    "releaseVersion": "1.10.0",
+    "chapter": "KALPA联动",
+    "title_localized": {
+      "default": "Ēvocator"
+    },
+    "source_localized": {
+      "default": "KALPA"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "Evin a'k"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "Evin a'k"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.3,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "Evin a'k"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "Evin a'k"
+      }
+    ]
+  },
+  {
+    "id": "eschatology",
+    "artist": "Tatsh & Scarlette",
+    "releaseVersion": "1.10.0",
+    "chapter": "KALPA联动",
+    "title_localized": {
+      "default": "Eschatology"
+    },
+    "source_localized": {
+      "default": "KALPA"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Toya Fujimura"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Toya Fujimura"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.3,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Toya Fujimura"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.9,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Toya Fujimura"
+      }
+    ]
+  },
+  {
+    "id": "my-heaven-magical-mix",
+    "artist": "Scarlette X Juggernaut.",
+    "releaseVersion": "1.10.0",
+    "chapter": "KALPA联动",
+    "title_localized": {
+      "default": "My Heaven (Magical Mix) feat. kuripurin"
+    },
+    "source_localized": {
+      "default": "KALPA"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "闇靈[NORMAL]",
+        "jacketDesigner": "ZG, LINUS"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "闇靈[HARD]",
+        "jacketDesigner": "ZG, LINUS"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.2,
+        "chartDesigner": "闇靈[HARD+]",
+        "jacketDesigner": "ZG, LINUS"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.7,
+        "chartDesigner": "闇靈[ABYSS]",
+        "jacketDesigner": "ZG, LINUS"
+      }
+    ]
+  },
+  {
+    "id": "avataar",
+    "artist": "Scarlette a.k.a. CrYmson",
+    "releaseVersion": "1.10.0",
+    "chapter": "KALPA联动",
+    "title_localized": {
+      "default": "Avataar ~Reincarnation of Kalpa~"
+    },
+    "source_localized": {
+      "default": "KALPA"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "みかんのはる",
+        "jacketDesigner": "ZG"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 7.5,
+        "chartDesigner": "みかんのはる",
+        "jacketDesigner": "ZG"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.9,
+        "chartDesigner": "みかんのはる",
+        "jacketDesigner": "ZG"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.6,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "ZG"
+      }
+    ]
+  },
+  {
+    "id": "azure-sky",
+    "artist": "NeLiME",
+    "releaseVersion": "1.11.0",
+    "chapter": "基础歌曲",
+    "title_localized": {
+      "default": "Azure Sky"
+    },
+    "source_localized": {
+      "default": "Original"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "伊恩"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 4,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "伊恩"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 7.5,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "伊恩"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 11.9,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "伊恩"
+      }
+    ]
+  },
+  {
+    "id": "hoshifuruyoru-to-ichirin-no-hana",
+    "artist": "seatrus",
+    "releaseVersion": "1.11.0",
+    "chapter": "我们的相遇",
+    "title_localized": {
+      "default": "星降る夜と一輪の花",
+      "en": "Hoshifuruyoru To Ichirin No Hana"
+    },
+    "source_localized": {
+      "default": "Original"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "48OKU"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "48OKU"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.1,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "48OKU"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.3,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "48OKU"
+      }
+    ]
+  },
+  {
+    "id": "eternal-calm",
+    "artist": "長沼浩太(パパ頑張りました)",
+    "releaseVersion": "1.11.0",
+    "chapter": "我们的相遇",
+    "title_localized": {
+      "default": "Eternal calm"
+    },
+    "source_localized": {
+      "default": "BOF:ET"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 1,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Nich"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Nich"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 7.5,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Nich"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 11.2,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Nich"
+      }
+    ]
+  },
+  {
+    "id": "magenta-potion",
+    "artist": "EmoCosine",
+    "releaseVersion": "1.11.0",
+    "chapter": "我们的相遇",
+    "title_localized": {
+      "default": "MAGENTA POTION"
+    },
+    "source_localized": {
+      "default": "BOFXV19"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "SER"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "SER"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 10.2,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "SER"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.1,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "SER"
+      }
+    ]
+  },
+  {
+    "id": "sense",
+    "artist": "BilliumMoto × Silentroom",
+    "releaseVersion": "1.11.0",
+    "chapter": "我们的相遇",
+    "title_localized": {
+      "default": "Sense"
+    },
+    "source_localized": {
+      "default": "BOFXVII"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 1,
+        "chartDesigner": "ScendRez",
+        "jacketDesigner": "Character Visual Design 蟹江"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 4,
+        "chartDesigner": "ScendRez",
+        "jacketDesigner": "Character Visual Design 蟹江"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.4,
+        "chartDesigner": "ScendRez",
+        "jacketDesigner": "Character Visual Design 蟹江"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.1,
+        "chartDesigner": "ScendRez",
+        "jacketDesigner": "Character Visual Design 蟹江"
+      }
+    ]
+  },
+  {
+    "id": "looking-for-stella",
+    "artist": "Junk",
+    "releaseVersion": "1.11.0",
+    "chapter": "我们的相遇",
+    "title_localized": {
+      "default": "Looking for Stella"
+    },
+    "source_localized": {
+      "default": "Rotaeno Sound Collection"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "伊恩"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 4,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "伊恩"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.4,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "伊恩"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.5,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "伊恩"
+      }
+    ]
+  },
+  {
+    "id": "fate-of-aria",
+    "artist": "HyuN feat.花たん",
+    "releaseVersion": "1.11.0",
+    "chapter": "我们的相遇",
+    "title_localized": {
+      "default": "Fate of Aria"
+    },
+    "source_localized": {
+      "default": "Rotaeno Sound Collection"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "LINUS"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 7,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "LINUS"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.8,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "LINUS"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.5,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "LINUS"
+      }
+    ]
+  },
+  {
+    "id": "nyarlathoteps-dreamland",
+    "artist": "Raimukun",
+    "releaseVersion": "1.12.0",
+    "chapter": "基础歌曲",
+    "title_localized": {
+      "default": "Nyarlathotep's Dreamland"
+    },
+    "source_localized": {
+      "default": "Original"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "冰果"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 7,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "冰果"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.1,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "冰果"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.8,
+        "chartDesigner": "Adashi as 12+(*´･д･)?",
+        "jacketDesigner": "冰果"
+      }
+    ]
+  },
+  {
+    "id": "nighttheater",
+    "artist": "わかどり",
+    "releaseVersion": "1.12.0",
+    "chapter": "放克派对",
+    "title_localized": {
+      "default": "NightTheater"
+    },
+    "source_localized": {
+      "default": "BOFXVI"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "もがみ"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "もがみ"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 7.5,
+        "chartDesigner": "MF-",
+        "jacketDesigner": "もがみ"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.6,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "もがみ"
+      }
+    ]
+  },
+  {
+    "id": "giselle",
+    "artist": "Sobrem a.k.a. Widowmaker",
+    "releaseVersion": "1.12.0",
+    "chapter": "放克派对",
+    "title_localized": {
+      "default": "Giselle"
+    },
+    "source_localized": {
+      "default": "G2R2018"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "闇靈&イ号P",
+        "jacketDesigner": "Sobrem"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "闇靈&イ号P",
+        "jacketDesigner": "Sobrem"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 10.9,
+        "chartDesigner": "闇靈&イ号P",
+        "jacketDesigner": "Sobrem"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.2,
+        "chartDesigner": "闇靈&イ号P",
+        "jacketDesigner": "Sobrem"
+      }
+    ]
+  },
+  {
+    "id": "wakatterukedo",
+    "artist": "HyuN feat. LyuU",
+    "releaseVersion": "1.12.0",
+    "chapter": "放克派对",
+    "title_localized": {
+      "default": "分かってるけど",
+      "en": "Wakatterukedo"
+    },
+    "source_localized": {
+      "default": "Rotaeno Sound Collection"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "Nabom"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "Nabom"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 7,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "Nabom"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.6,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "Nabom"
+      }
+    ]
+  },
+  {
+    "id": "spooky-dance-party",
+    "artist": "seatrus",
+    "releaseVersion": "1.12.0",
+    "chapter": "放克派对",
+    "title_localized": {
+      "default": "スプーキィダンスパーティ",
+      "en": "Spooky Dance Party"
+    },
+    "source_localized": {
+      "default": "Original"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "植物",
+        "jacketDesigner": "るれぷ"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "植物",
+        "jacketDesigner": "るれぷ"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.6,
+        "chartDesigner": "植物",
+        "jacketDesigner": "るれぷ"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.9,
+        "chartDesigner": "植物",
+        "jacketDesigner": "るれぷ"
+      }
+    ]
+  },
+  {
+    "id": "marble-joker",
+    "artist": "pan",
+    "releaseVersion": "1.12.0",
+    "chapter": "放克派对",
+    "title_localized": {
+      "default": "Marble Joker"
+    },
+    "source_localized": {
+      "default": "Rotaeno Sound Collection"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 4,
+        "chartDesigner": "Gambling Master = SAISHUN",
+        "jacketDesigner": "炎獵"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 7.5,
+        "chartDesigner": "Gambling Master = SAISHUN",
+        "jacketDesigner": "炎獵"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.5,
+        "chartDesigner": "Gambling Master = SAISHUN",
+        "jacketDesigner": "炎獵"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.4,
+        "chartDesigner": "Gambling Master = SAISHUN",
+        "jacketDesigner": "炎獵"
+      }
+    ]
+  },
+  {
+    "id": "phantago",
+    "artist": "Nagiha",
+    "releaseVersion": "1.12.0",
+    "chapter": "放克派对",
+    "title_localized": {
+      "default": "Phantago"
+    },
+    "source_localized": {
+      "default": "The Dueliot"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "織日ちひろ"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 7.5,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "織日ちひろ"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.5,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "織日ちひろ"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 14.1,
+        "chartDesigner": "Joker vs AxEradaShi",
+        "jacketDesigner": "織日ちひろ"
+      }
+    ]
+  },
+  {
+    "id": "no-one-yes-man",
+    "artist": "MYUKKE.",
+    "releaseVersion": "1.13.0",
+    "chapter": "基础歌曲",
+    "title_localized": {
+      "default": "NO ONE YES MAN"
+    },
+    "source_localized": {
+      "default": "Phigros"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "闇靈DarkM",
+        "jacketDesigner": "青鸟"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "闇靈DarkM",
+        "jacketDesigner": "青鸟"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.8,
+        "chartDesigner": "闇靈DarkM",
+        "jacketDesigner": "青鸟"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 11.8,
+        "chartDesigner": "闇靈DarkM",
+        "jacketDesigner": "青鸟"
+      }
+    ]
+  },
+  {
+    "id": "break-over",
+    "artist": "K-forest",
+    "releaseVersion": "1.13.0",
+    "chapter": "Phigros联动",
+    "title_localized": {
+      "default": "Break Over"
+    },
+    "source_localized": {
+      "default": "Phigros/©Oshiribeat"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "圆规Compass"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "圆规Compass"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.8,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "圆规Compass"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 11.8,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "圆规Compass"
+      }
+    ]
+  },
+  {
+    "id": "feast-from-the-east",
+    "artist": "茶鸣拾贰律",
+    "releaseVersion": "1.13.0",
+    "chapter": "Phigros联动",
+    "title_localized": {
+      "default": "Feast远东之宴",
+      "en": "Feast遠東之宴"
+    },
+    "source_localized": {
+      "default": "Phigros/©茶鸣拾贰律"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "AngrierB From the East",
+        "jacketDesigner": "茶鸣拾贰律"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "AngrierB From the East",
+        "jacketDesigner": "茶鸣拾贰律"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.5,
+        "chartDesigner": "AngrierB From the East",
+        "jacketDesigner": "茶鸣拾贰律"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13,
+        "chartDesigner": "AngrierB From the East",
+        "jacketDesigner": "茶鸣拾贰律"
+      }
+    ]
+  },
+  {
+    "id": "distorted-fate",
+    "artist": "Sakuzyo",
+    "releaseVersion": "1.13.0",
+    "chapter": "Phigros联动",
+    "title_localized": {
+      "default": "Distorted Fate"
+    },
+    "source_localized": {
+      "default": "Phigros"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "knife美工刀"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "knife美工刀"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.5,
+        "chartDesigner": "植物",
+        "jacketDesigner": "knife美工刀"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.6,
+        "chartDesigner": "植物",
+        "jacketDesigner": "knife美工刀"
+      }
+    ]
+  },
+  {
+    "id": "rrharil",
+    "artist": "Team Grimoire",
+    "releaseVersion": "1.13.0",
+    "chapter": "Phigros联动",
+    "title_localized": {
+      "default": "Rrhar'il"
+    },
+    "source_localized": {
+      "default": "Phigros"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 4,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "犀牛坨动画工坊"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "犀牛坨动画工坊"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.8,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "犀牛坨动画工坊"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.5,
+        "chartDesigner": "Adashi apply \"The Limiter\"",
+        "jacketDesigner": "犀牛坨动画工坊"
+      }
+    ]
+  },
+  {
+    "id": "igallta",
+    "artist": "Se-U-Ra",
+    "releaseVersion": "1.13.0",
+    "chapter": "Phigros联动",
+    "title_localized": {
+      "default": "Igallta"
+    },
+    "source_localized": {
+      "default": "Phigros"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Se-U-Ra"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Se-U-Ra"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.3,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "Se-U-Ra"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 14,
+        "chartDesigner": "IgouTang",
+        "jacketDesigner": "Se-U-Ra"
+      }
+    ]
+  },
+  {
+    "id": "mistilteinn",
+    "artist": "iTIC",
+    "releaseVersion": "1.13.2",
+    "chapter": "星际之声",
+    "title_localized": {
+      "default": "Mistilteinn"
+    },
+    "source_localized": {
+      "default": "Original"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "炎獵"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "炎獵"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.9,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "炎獵"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "炎獵"
+      }
+    ]
+  },
+  {
+    "id": "swirling-blue",
+    "artist": "Nagiha",
+    "releaseVersion": "1.13.2",
+    "chapter": "星际之声",
+    "title_localized": {
+      "default": "Swirling Blue"
+    },
+    "source_localized": {
+      "default": "Rotaeno Sound Collection"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "矢嶋こずみ"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 4,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "矢嶋こずみ"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.2,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "矢嶋こずみ"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 11.6,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "矢嶋こずみ"
+      }
+    ]
+  },
+  {
+    "id": "angel-dust",
+    "artist": "LV.4",
+    "releaseVersion": "1.13.3",
+    "chapter": "星际之声",
+    "title_localized": {
+      "default": "Angel dust"
+    },
+    "source_localized": {
+      "default": "BOF2006"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "LV.4"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "LV.4"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.8,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "LV.4"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 14,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "LV.4"
+      }
+    ]
+  },
+  {
+    "id": "daydream",
+    "artist": "RiraN",
+    "releaseVersion": "1.13.3",
+    "chapter": "星际之声",
+    "title_localized": {
+      "default": "Daydream"
+    },
+    "source_localized": {
+      "default": "Original"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "Jakasy's daydream",
+        "jacketDesigner": "Kei"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "Jakasy's daydream",
+        "jacketDesigner": "Kei"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 10.9,
+        "chartDesigner": "Jakasy's daydream",
+        "jacketDesigner": "Kei"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.2,
+        "chartDesigner": "JAKASY IN THE DAYDREAM",
+        "jacketDesigner": "Kei"
+      }
+    ]
+  },
+  {
+    "id": "internet-overdose",
+    "artist": "Aiobahn feat. KOTOKO",
+    "releaseVersion": "1.13.3",
+    "chapter": "星际之声",
+    "title_localized": {
+      "default": "INTERNET OVERDOSE"
+    },
+    "source_localized": {
+      "default": "Original"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "闇靈DarkM",
+        "jacketDesigner": "こかむも"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 4,
+        "chartDesigner": "闇靈DarkM",
+        "jacketDesigner": "こかむも"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.9,
+        "chartDesigner": "闇靈DarkM",
+        "jacketDesigner": "こかむも"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.2,
+        "chartDesigner": "闇靈DarkM",
+        "jacketDesigner": "こかむも"
+      }
+    ]
+  },
+  {
+    "id": "revel",
+    "artist": "Yu_Asahina as Orange Vox+ ft.AKA",
+    "releaseVersion": "1.14.0",
+    "chapter": "基础歌曲",
+    "title_localized": {
+      "default": "reveL"
+    },
+    "source_localized": {
+      "default": "BOF:ET"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "TangScend [bonne nuit]",
+        "jacketDesigner": "AiLANE"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 4,
+        "chartDesigner": "TangScend [bonne nuit]",
+        "jacketDesigner": "AiLANE"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.4,
+        "chartDesigner": "TangScend [bonne nuit]",
+        "jacketDesigner": "AiLANE"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.7,
+        "chartDesigner": "TangScend [bonne nuit]",
+        "jacketDesigner": "AiLANE"
+      }
+    ]
+  },
+  {
+    "id": "wish-upon-vivid-stars",
+    "artist": "Reku Mochizuki",
+    "releaseVersion": "1.14.0",
+    "chapter": "紫夜狂欢",
+    "title_localized": {
+      "default": "Wish Upon Vivid Stars"
+    },
+    "source_localized": {
+      "default": "Original"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "伊恩"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 4,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "伊恩"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.3,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "伊恩"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 11.1,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "伊恩"
+      }
+    ]
+  },
+  {
+    "id": "vesta",
+    "artist": "Saiph",
+    "releaseVersion": "1.14.0",
+    "chapter": "紫夜狂欢",
+    "title_localized": {
+      "default": "Vesta"
+    },
+    "source_localized": {
+      "default": "BOFU2016"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Saiph"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Saiph"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.6,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Saiph"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.7,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Saiph"
+      }
+    ]
+  },
+  {
+    "id": "conflict",
+    "artist": "siromaru + cranky",
+    "releaseVersion": "1.14.0",
+    "chapter": "紫夜狂欢",
+    "title_localized": {
+      "default": "conflict"
+    },
+    "source_localized": {
+      "default": "BOF2011"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "AxEradaS [desperate conflict]",
+        "jacketDesigner": "iimo"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "Adashi [ruthless enemy]",
+        "jacketDesigner": "iimo"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.7,
+        "chartDesigner": "AxEradaS fight against Adashi",
+        "jacketDesigner": "iimo"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.2,
+        "chartDesigner": "AxEradaS fight against Adashi",
+        "jacketDesigner": "iimo"
+      }
+    ]
+  },
+  {
+    "id": "yinmn-blue",
+    "artist": "siqlo",
+    "releaseVersion": "1.14.0",
+    "chapter": "紫夜狂欢",
+    "title_localized": {
+      "default": "YInMn Blue"
+    },
+    "source_localized": {
+      "default": "BOFU2017"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "AXeRa -Blue??-",
+        "jacketDesigner": "出前"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "AXeRa -Blue??-",
+        "jacketDesigner": "出前"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.7,
+        "chartDesigner": "AXeRa -Blue??-",
+        "jacketDesigner": "出前"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.4,
+        "chartDesigner": "AXeRa -Blue??-",
+        "jacketDesigner": "出前"
+      }
+    ]
+  },
+  {
+    "id": "cosmic-railroad",
+    "artist": "kanone",
+    "releaseVersion": "1.14.0",
+    "chapter": "紫夜狂欢",
+    "title_localized": {
+      "default": "CO5M1C R4ILR0AD"
+    },
+    "source_localized": {
+      "default": "BOFU2016"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Shuto"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Shuto"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 10.3,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Shuto"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.3,
+        "chartDesigner": "Adashi",
+        "jacketDesigner": "Shuto"
+      }
+    ]
+  },
+  {
+    "id": "mvurbd",
+    "artist": "ETIA.",
+    "releaseVersion": "1.14.0",
+    "chapter": "紫夜狂欢",
+    "title_localized": {
+      "default": "MVURBD"
+    },
+    "source_localized": {
+      "default": "Rotaeno Sound Collection"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 5,
+        "chartDesigner": "左下",
+        "jacketDesigner": "noel"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 7.5,
+        "chartDesigner": "左下",
+        "jacketDesigner": "noel"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.7,
+        "chartDesigner": "左下",
+        "jacketDesigner": "noel"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 14.2,
+        "chartDesigner": "左下",
+        "jacketDesigner": "noel"
+      }
+    ]
+  },
+  {
+    "id": "provison",
+    "artist": "connexio",
+    "releaseVersion": "1.14.1",
+    "chapter": "基础歌曲",
+    "title_localized": {
+      "default": "Provison"
+    },
+    "source_localized": {
+      "default": "MUSYNX"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "艾斯弗鲁特_vita"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "艾斯弗鲁特_vita"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 7.5,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "艾斯弗鲁特_vita"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "艾斯弗鲁特_vita"
+      }
+    ]
+  },
+  {
+    "id": "today-is-not-tomorrow",
+    "artist": "PIKASONIC feat.兰音Reine",
+    "releaseVersion": "1.14.1",
+    "chapter": "音波狂潮",
+    "title_localized": {
+      "default": "今天不是明天",
+      "en": "Today is Not Tomorrow"
+    },
+    "source_localized": {
+      "default": "次元LAB二次元电音节"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "AxEradaS",
+        "jacketDesigner": "一击即溃"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "AxEradaS",
+        "jacketDesigner": "一击即溃"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.3,
+        "chartDesigner": "AxEradaS",
+        "jacketDesigner": "一击即溃"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 11,
+        "chartDesigner": "AxEradaS",
+        "jacketDesigner": "一击即溃"
+      }
+    ]
+  },
+  {
+    "id": "love-you-i-imagined",
+    "artist": "KOTONOHOUSE feat.穆小泠",
+    "releaseVersion": "1.14.1",
+    "chapter": "音波狂潮",
+    "title_localized": {
+      "default": "爱上想象的你",
+      "en": "愛上想像的你"
+    },
+    "source_localized": {
+      "default": "次元LAB二次元电音节"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "kkmfd"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "kkmfd"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.4,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "kkmfd"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.2,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "kkmfd"
+      }
+    ]
+  },
+  {
+    "id": "galaxy-striker",
+    "artist": "M2U",
+    "releaseVersion": "1.14.1",
+    "chapter": "星际之声",
+    "title_localized": {
+      "default": "Galaxy Striker"
+    },
+    "source_localized": {
+      "default": "MUSYNX"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "AxEradaS",
+        "jacketDesigner": "TUNO桐音"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "AxEradaS",
+        "jacketDesigner": "TUNO桐音"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.6,
+        "chartDesigner": "AxEradaS",
+        "jacketDesigner": "TUNO桐音"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.3,
+        "chartDesigner": "AxEradaS",
+        "jacketDesigner": "TUNO桐音"
+      }
+    ]
+  },
+  {
+    "id": "silver-town",
+    "artist": "Memme",
+    "releaseVersion": "1.14.1",
+    "chapter": "星际之声",
+    "title_localized": {
+      "default": "Silver Town"
+    },
+    "source_localized": {
+      "default": "MUSYNX"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 4,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "START SEED"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "START SEED"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 10.4,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "START SEED"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.2,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "START SEED"
+      }
+    ]
+  },
+  {
+    "id": "make-up-your-world",
+    "artist": "t+pazolite & Srav3R",
+    "releaseVersion": "1.15.0",
+    "chapter": "基础歌曲",
+    "title_localized": {
+      "default": "Make Up Your World feat. キョンシーのCiちゃん & らっぷびと"
+    },
+    "source_localized": {
+      "default": "Original"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "Logo Shota Kajimura"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "Logo Shota Kajimura"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.3,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "Logo Shota Kajimura"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 11.9,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "Logo Shota Kajimura"
+      }
+    ]
+  },
+  {
+    "id": "break-through-myself",
+    "artist": "DJ Myosuke & Laur",
+    "releaseVersion": "1.15.0",
+    "chapter": "基础歌曲",
+    "title_localized": {
+      "default": "Break Through Myself feat. Risa Yuzuki"
+    },
+    "source_localized": {
+      "default": "Original"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "reku"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "reku"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.1,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "reku"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "reku"
+      }
+    ]
+  },
+  {
+    "id": "strange-bar",
+    "artist": "Laur",
+    "releaseVersion": "1.15.0",
+    "chapter": "HARDCORE TANO*C联动II",
+    "title_localized": {
+      "default": "Strange Bar"
+    },
+    "source_localized": {
+      "default": "IRREGULAR NATION 5"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "イセ川ヤスタカ"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "イセ川ヤスタカ"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.1,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "イセ川ヤスタカ"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.1,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "イセ川ヤスタカ"
+      }
+    ]
+  },
+  {
+    "id": "un1te",
+    "artist": "Massive New Krew",
+    "releaseVersion": "1.15.0",
+    "chapter": "HARDCORE TANO*C联动II",
+    "title_localized": {
+      "default": "UN1TE feat.YUC'e"
+    },
+    "source_localized": {
+      "default": "HARDCORE SYNDROME 8"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "AX3RA",
+        "jacketDesigner": "KEI"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "AX3RA",
+        "jacketDesigner": "KEI"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.7,
+        "chartDesigner": "AX3RA",
+        "jacketDesigner": "KEI"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 11,
+        "chartDesigner": "AX3RA",
+        "jacketDesigner": "KEI"
+      }
+    ]
+  },
+  {
+    "id": "because-of-you",
+    "artist": "Srav3R & USAO",
+    "releaseVersion": "1.15.0",
+    "chapter": "HARDCORE TANO*C联动II",
+    "title_localized": {
+      "default": "Becouse of You"
+    },
+    "source_localized": {
+      "default": "HYPER DUO"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "AXERA & 再瞬",
+        "jacketDesigner": "魔界の住民"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "AXERA & 再瞬",
+        "jacketDesigner": "魔界の住民"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.5,
+        "chartDesigner": "AXERA & 再瞬",
+        "jacketDesigner": "魔界の住民"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.5,
+        "chartDesigner": "AXERA & 再瞬",
+        "jacketDesigner": "魔界の住民"
+      }
+    ]
+  },
+  {
+    "id": "luminosity",
+    "artist": "DJ Noriken",
+    "releaseVersion": "1.15.0",
+    "chapter": "HARDCORE TANO*C联动II",
+    "title_localized": {
+      "default": "Luminosity (Don't you worry)"
+    },
+    "source_localized": {
+      "default": "Rotaeno Sound Collection"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "Nich"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "Nich"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.4,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "Nich"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.8,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "Nich"
+      }
+    ]
+  },
+  {
+    "id": "dual-doom-deathmatch",
+    "artist": "Kobaryo vs HyuN",
+    "releaseVersion": "1.15.0",
+    "chapter": "HARDCORE TANO*C联动II",
+    "title_localized": {
+      "default": "Dual Doom Deathmatch"
+    },
+    "source_localized": {
+      "default": "Rotaeno Sound Collection"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 4,
+        "chartDesigner": "AngrierB",
+        "jacketDesigner": "炎獵"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 7.5,
+        "chartDesigner": "AngrierB",
+        "jacketDesigner": "炎獵"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.8,
+        "chartDesigner": "AngrierB",
+        "jacketDesigner": "炎獵"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.9,
+        "chartDesigner": "闇靈DarkM",
+        "jacketDesigner": "炎獵"
+      }
+    ]
+  },
+  {
+    "id": "flashback-flicker",
+    "artist": "t+pazolite",
+    "releaseVersion": "1.15.0",
+    "chapter": "HARDCORE TANO*C联动II",
+    "title_localized": {
+      "default": "Flashback Flicker"
+    },
+    "source_localized": {
+      "default": "Rotaeno Sound Collection"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Soda"
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Soda"
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.4,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Soda"
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 14.2,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Soda"
+      }
+    ]
+  },
+  {
+    "id": "apocalypse",
+    "artist": "Alice Schach and the Magic Orchestra",
+    "releaseVersion": "1.16.0",
+    "chapter": "基础歌曲",
+    "title_localized": {
+      "default": "Apocalypse"
+    },
+    "source_localized": {
+      "default": "Lanota"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 4,
+        "chartDesigner": "TPRT Wen",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8.3,
+        "chartDesigner": "明日",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12,
+        "chartDesigner": "明日",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      }
+    ]
+  },
+  {
+    "id": "yukianesa",
+    "artist": "tezuka",
+    "releaseVersion": "1.16.0",
+    "chapter": "基础歌曲",
+    "title_localized": {
+      "default": "Yukianesa"
+    },
+    "source_localized": {
+      "default": "Lanota"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "AX ～残れる氷雪～",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "AX ～残れる氷雪～",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 11.5,
+        "chartDesigner": "AX ～残れる氷雪～",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.8,
+        "chartDesigner": "AX ～残れる氷雪～",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      }
+    ]
+  },
+  {
+    "id": "song-for-sprites",
+    "artist": "Sta",
+    "releaseVersion": "1.16.0",
+    "chapter": "Lanota联动",
+    "title_localized": {
+      "default": "Song for Sprites"
+    },
+    "source_localized": {
+      "default": "Lanota"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 8,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 12.3,
+        "chartDesigner": "j!ang",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      }
+    ]
+  },
+  {
+    "id": "cyanine",
+    "artist": "jioyi",
+    "releaseVersion": "1.16.0",
+    "chapter": "Lanota联动",
+    "title_localized": {
+      "default": "cyanine"
+    },
+    "source_localized": {
+      "default": "Lanota"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.2,
+        "chartDesigner": "イ号P",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.5,
+        "chartDesigner": "IgouTang",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      }
+    ]
+  },
+  {
+    "id": "androgynos2",
+    "artist": "WAiKURO",
+    "releaseVersion": "1.16.0",
+    "chapter": "Lanota联动",
+    "title_localized": {
+      "default": "Androgynos"
+    },
+    "source_localized": {
+      "default": "Lanota"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 9.1,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13,
+        "chartDesigner": "TangScend",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      }
+    ]
+  },
+  {
+    "id": "lonely-departure",
+    "artist": "Chroma",
+    "releaseVersion": "1.16.0",
+    "chapter": "Lanota联动",
+    "title_localized": {
+      "default": "Lonely departure"
+    },
+    "source_localized": {
+      "default": "Lanota"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 5,
+        "chartDesigner": "Jakasy",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 10.6,
+        "chartDesigner": "闇靈DarkM",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.8,
+        "chartDesigner": "闇靈DarkM",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      }
+    ]
+  },
+  {
+    "id": "stasis",
+    "artist": "Maozon",
+    "releaseVersion": "1.16.0",
+    "chapter": "Lanota联动",
+    "title_localized": {
+      "default": "Stasis"
+    },
+    "source_localized": {
+      "default": "Lanota"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 2,
+        "chartDesigner": "Adashi \"Master PPed\"",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "Adashi \"Master PPed\"",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 10.9,
+        "chartDesigner": "Adashi \"Master PPed\"",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 13.9,
+        "chartDesigner": "Adashi \"Master PPed\"",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      }
+    ]
+  },
+  {
+    "id": "freys-philosophy",
+    "artist": "Powerless",
+    "releaseVersion": "1.16.0",
+    "chapter": "Lanota联动",
+    "title_localized": {
+      "default": "Frey's Philosophy"
+    },
+    "source_localized": {
+      "default": "Lanota"
+    },
+    "charts": [
+      {
+        "difficultyLevel": "I",
+        "difficultyDecimal": 3,
+        "chartDesigner": "植物",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "II",
+        "difficultyDecimal": 6,
+        "chartDesigner": "植物",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "III",
+        "difficultyDecimal": 12,
+        "chartDesigner": "植物",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
+      },
+      {
+        "difficultyLevel": "IV",
+        "difficultyDecimal": 14.1,
+        "chartDesigner": "日光植物",
+        "jacketDesigner": "Lanota © Noxy Games Inc."
       }
     ]
   },

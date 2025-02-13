@@ -2,6 +2,7 @@ import { parseRotaenoSong } from './src/parseRotaenoSong'
 import { fetchRotaenoWikiPage } from './src/fetchRotaenoWikiPage'
 import { parseSongList } from './src/parseSongList'
 import { write } from 'bun'
+import * as semver from 'semver'
 
 interface Song {
   id: string
@@ -47,7 +48,7 @@ if (import.meta.main) {
 
   const sortedSongs = allSongs.sort((a, b) => {
     if (!a.releaseVersion || !b.releaseVersion) return 0
-    return a.releaseVersion.localeCompare(b.releaseVersion)
+    return semver.compare(a.releaseVersion, b.releaseVersion) // 최신 버전이 앞으로 오도록 역순 정렬
   })
 
   await write('data/songs.json', JSON.stringify(sortedSongs, null, 2))
