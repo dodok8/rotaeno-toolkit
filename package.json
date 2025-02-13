@@ -14,6 +14,7 @@
   },
   "scripts": {
     "build:wiki": "bun run --cwd packages/wiki-crawler build",
-    "dev:wiki": "bun run --cwd packages/wiki-crawler dev"
+    "dev:wiki": "bun run --cwd packages/wiki-crawler dev",
+    "test:wiki": "bun test --cwd packages/wiki-crawler"
   }
 }
