@@ -9,6 +9,7 @@ export function parseRotaenoSong(document: Document): {
   id: string
   artist: string
   releaseVersion: string
+  chapter: string
   title_localized: Record<string, string>
   source_localized?: {
     default: string
@@ -118,30 +119,38 @@ export function parseRotaenoSong(document: Document): {
     )
   )
 
-let chartDesigners: Array<string> = []
-if (chartDesignerRow) {
-  const cells = Array.from(chartDesignerRow.getElementsByTagName('td'))
-  const designerCells = cells.slice(1) // Skip the label cell
+  let chartDesigners: Array<string> = []
+  if (chartDesignerRow) {
+    const cells = Array.from(chartDesignerRow.getElementsByTagName('td'))
+    const designerCells = cells.slice(1) // Skip the label cell
 
-  let currentIndex = 0
-  for (const cell of designerCells) {
-    const colspan = parseInt(cell.getAttribute('colspan') || '1')
-    const designer = getText(cell)
-    
-    // Fill the array with the same designer name for the colspan amount
-    for (let i = 0; i < colspan; i++) {
-      chartDesigners[currentIndex] = designer
-      currentIndex++
+    let currentIndex = 0
+    for (const cell of designerCells) {
+      const colspan = parseInt(cell.getAttribute('colspan') || '1')
+      const designer = getText(cell)
+
+      // Fill the array with the same designer name for the colspan amount
+      for (let i = 0; i < colspan; i++) {
+        chartDesigners[currentIndex] = designer
+        currentIndex++
+      }
     }
   }
-}
 
   // Get jacket designer
   const jacketDesignerCell = findCell('画师', mainTable)
   const jacketDesigner = getText(jacketDesignerCell)
 
   // Get other information
-  const getFieldValue = (label) => getText(findCell(label, mainTable))
+  const getFieldValue = (label) => {
+    const cell = findCell(label, mainTable)
+    // For cells that contain links, get the text from the link
+    const link = cell?.querySelector('a')
+    if (link) {
+      return getText(link)
+    }
+    return getText(cell)
+  }
 
   const constLabels =
     constValues.length == 4
@@ -153,6 +162,7 @@ if (chartDesignerRow) {
     id,
     artist: getFieldValue('曲师'),
     releaseVersion: getFieldValue('更新版本').replace('v', ''),
+    chapter: getFieldValue('曲包'),
     title_localized,
     source_localized: {
       default: getFieldValue('来源') || 'Original',
