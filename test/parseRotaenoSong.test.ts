@@ -92,4 +92,53 @@ describe('parseRotaenoSong', () => {
       ],
     })
   })
+
+  test("should correctly parse Heaven's Cage song data", async () => {
+    const songDocument = await fetchRotaenoWikiPage("Heaven's Cage")
+    const result = parseRotaenoSong(songDocument)
+
+    expect(result).toEqual({
+      id: "heavens-cage",
+      artist: "ETIA.",
+      releaseVersion: "2.0.0",
+      title_localized: {
+        default: "Heaven's Cage"
+      },
+      source_localized: {
+        default: "Rotaeno Sound Collection"
+      },
+      charts: [
+        {
+          difficultyLevel: "I",
+          difficultyDecimal: 3,
+          chartDesigner: "Adashi",
+          jacketDesigner: "三更"
+        },
+        {
+          difficultyLevel: "II",
+          difficultyDecimal: 7,
+          chartDesigner: "Adashi",
+          jacketDesigner: "三更"
+        },
+        {
+          difficultyLevel: "III",
+          difficultyDecimal: 10.4,
+          chartDesigner: "Adashi",
+          jacketDesigner: "三更"
+        },
+        {
+          difficultyLevel: "IV",
+          difficultyDecimal: 12.5,
+          chartDesigner: "AngrierB",
+          jacketDesigner: "三更"
+        },
+        {
+          difficultyLevel: "IV-α",
+          difficultyDecimal: 12.9,
+          chartDesigner: "Ada▥hi",
+          jacketDesigner: "三更"
+        }
+      ]
+    })
+  })
 })
