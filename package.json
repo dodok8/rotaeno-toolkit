@@ -15,7 +15,8 @@
   },
   "scripts": {
     "run:wiki": "bun run --cwd packages/wiki-crawler index.ts",
-    "test:wiki": "bun test --cwd packages/wiki-crawler"
+    "test:wiki": "bun test --cwd packages/wiki-crawler",
+    "build:type": "bun run --cwd packages/shared-types build"
   },
   "dependencies": {
     "semver": "^7.7.1"
