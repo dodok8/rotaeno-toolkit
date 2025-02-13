@@ -128,13 +128,13 @@ describe('parseRotaenoSong', () => {
         },
         {
           difficultyLevel: "IV",
-          difficultyDecimal: 12.5,
+          difficultyDecimal: 13.1,
           chartDesigner: "AngrierB",
           jacketDesigner: "三更"
         },
         {
           difficultyLevel: "IV-α",
-          difficultyDecimal: 12.9,
+          difficultyDecimal: 13.9,
           chartDesigner: "Ada▥hi",
           jacketDesigner: "三更"
         }
