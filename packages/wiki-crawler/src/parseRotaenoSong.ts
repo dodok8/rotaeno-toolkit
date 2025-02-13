@@ -79,7 +79,7 @@ export function parseRotaenoSong(document: Document): {
   const titles = titleParts.map((part) => part.replace(/^英文:/, '').trim())
 
   // If only one alternative title exists, it's English
-  if (titles.length === 1) {
+  if (titles.length === 1 && titles[0] !== '曲目信息') {
     title_localized['en'] = titles[0]
   }
   // If three alternative titles exist, follow zh-Hans, en, zh-Hant order
@@ -108,10 +108,6 @@ export function parseRotaenoSong(document: Document): {
     )
     .map((td) => parseFloat(getText(td)))
     .filter((val) => !isNaN(val))
-
-  if (constValues.length !== 4) {
-    throw new Error(`Expected 4 difficulty values, found ${constValues.length}`)
-  }
 
   // Get chart designer information
   const chartDesignerRow = Array.from(
@@ -144,6 +140,11 @@ export function parseRotaenoSong(document: Document): {
   // Get other information
   const getFieldValue = (label) => getText(findCell(label, mainTable))
 
+  const constLabels =
+    constValues.length == 4
+      ? ['I', 'II', 'III', 'IV']
+      : ['I', 'II', 'III', 'IV', 'IV-α']
+
   // Construct the final object
   return {
     id,
@@ -153,7 +154,7 @@ export function parseRotaenoSong(document: Document): {
     source_localized: {
       default: getFieldValue('来源') || 'Original',
     },
-    charts: ['I', 'II', 'III', 'IV'].map((diff, index) => ({
+    charts: constLabels.map((diff, index) => ({
       difficultyLevel: diff,
       difficultyDecimal: constValues[index],
       chartDesigner: chartDesigners[index] || '',

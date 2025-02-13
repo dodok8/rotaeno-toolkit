@@ -1,0 +1,12 @@
+{
+  "name": "@rotaeno-toolkit/wiki-crawler",
+  "module": "index.ts",
+  "type": "module",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "happy-dom": "^17.1.0",
+    "ky": "^1.7.4"
+  }
+}

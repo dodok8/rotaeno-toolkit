@@ -1,4 +1,4 @@
-# rotaeno-toolkit
+# rotaeno-wiki-crawler
 
 To install dependencies:
 

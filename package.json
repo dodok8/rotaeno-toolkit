@@ -1,7 +1,10 @@
 {
-  "name": "rotaeno-wiki-crawler",
-  "module": "index.ts",
-  "type": "module",
+  "name": "rotaeno-toolkit",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "@types/bun": "latest",
     "@typescript-eslint/eslint-plugin": "^6.9.1",
@@ -9,11 +12,8 @@
     "eslint": "^8.53.0",
     "prettier": "^3.5.0"
   },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  },
-  "dependencies": {
-    "happy-dom": "^17.1.0",
-    "ky": "^1.7.4"
+  "scripts": {
+    "build:wiki": "bun run --cwd packages/wiki-crawler build",
+    "dev:wiki": "bun run --cwd packages/wiki-crawler dev"
   }
 }
