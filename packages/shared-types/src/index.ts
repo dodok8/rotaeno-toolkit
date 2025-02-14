@@ -1,5 +1,6 @@
 export interface Song {
   id: string;
+  imageUrl: string;
   artist: string;
   releaseVersion: string;
   chapter: string;
