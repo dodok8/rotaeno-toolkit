@@ -16,7 +16,13 @@
   "scripts": {
     "run:wiki": "bun run --cwd packages/wiki-crawler index.ts",
     "test:wiki": "bun test --cwd packages/wiki-crawler",
-    "build:type": "bun run --cwd packages/shared-types build"
+    "build:type": "bun run --cwd packages/shared-types build",
+    "web:dev": "bun run --cwd packages/sveltekit dev",
+    "web:build": "bun run --cwd packages/sveltekit build",
+    "web:preview": "bun run --cwd packages/sveltekit preview",
+    "web:test": "bun run --cwd packages/sveltekit test",
+    "web:lint": "bun run --cwd packages/sveltekit lint",
+    "web:format": "bun run --cwd packages/sveltekit format"
   },
   "dependencies": {
     "semver": "^7.7.1"
