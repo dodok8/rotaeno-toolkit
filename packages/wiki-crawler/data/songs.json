@@ -1,6 +1,7 @@
 [
   {
     "id": "after-rain",
+    "imageUrl": "/images/thumb/0/0c/Songs_after-rain.png/256px-Songs_after-rain.png",
     "artist": "HyuN & MIIM",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -39,6 +40,7 @@
   },
   {
     "id": "reverie",
+    "imageUrl": "/images/thumb/3/3c/Songs_reverie.png/256px-Songs_reverie.png",
     "artist": "Soba",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -77,6 +79,7 @@
   },
   {
     "id": "a-time-for-everything",
+    "imageUrl": "/images/thumb/f/f6/Songs_a-time-for-everything.png/256px-Songs_a-time-for-everything.png",
     "artist": "Iris",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -115,6 +118,7 @@
   },
   {
     "id": "lost-puppet",
+    "imageUrl": "/images/thumb/a/ac/Songs_lost-puppet.png/256px-Songs_lost-puppet.png",
     "artist": "rmk",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -153,6 +157,7 @@
   },
   {
     "id": "infinity-heaven",
+    "imageUrl": "/images/thumb/4/41/Songs_infinity-heaven.png/256px-Songs_infinity-heaven.png",
     "artist": "HyuN",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -191,6 +196,7 @@
   },
   {
     "id": "xinzang-bing",
+    "imageUrl": "/images/thumb/b/b1/Songs_xinzang-bing.png/256px-Songs_xinzang-bing.png",
     "artist": "HyuN feat. HUBOG",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -232,6 +238,7 @@
   },
   {
     "id": "pure-white-tale-of-serissa",
+    "imageUrl": "/images/thumb/3/3a/Songs_pure-white-tale-of-serissa.png/256px-Songs_pure-white-tale-of-serissa.png",
     "artist": "Sosop",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -270,6 +277,7 @@
   },
   {
     "id": "last-paradise",
+    "imageUrl": "/images/thumb/5/58/Songs_last-paradise.png/256px-Songs_last-paradise.png",
     "artist": "HyuN feat. Serentium",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -308,6 +316,7 @@
   },
   {
     "id": "a-clock",
+    "imageUrl": "/images/thumb/9/98/Songs_a-clock.png/256px-Songs_a-clock.png",
     "artist": "kurobe studio",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -346,6 +355,7 @@
   },
   {
     "id": "shuen-kara-inochi-o-sukuu",
+    "imageUrl": "/images/thumb/8/87/Songs_shuen-kara-inochi-o-sukuu.png/256px-Songs_shuen-kara-inochi-o-sukuu.png",
     "artist": "MIssionary",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -385,6 +395,7 @@
   },
   {
     "id": "musaishiki-no-yutopia",
+    "imageUrl": "/images/thumb/2/27/Songs_musaishiki-no-yutopia.png/256px-Songs_musaishiki-no-yutopia.png",
     "artist": "HyuN feat. ウォルピスカーター",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -424,6 +435,7 @@
   },
   {
     "id": "aurora",
+    "imageUrl": "/images/thumb/d/d3/Songs_aurora.png/256px-Songs_aurora.png",
     "artist": "Kirara Magic feat. Shion",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -462,6 +474,7 @@
   },
   {
     "id": "snow-magic",
+    "imageUrl": "/images/thumb/c/c7/Songs_snow-magic.png/256px-Songs_snow-magic.png",
     "artist": "Nota",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -500,6 +513,7 @@
   },
   {
     "id": "k-moe-vip",
+    "imageUrl": "/images/thumb/a/ae/Songs_k-moe-vip.png/256px-Songs_k-moe-vip.png",
     "artist": "ZxNX",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -538,6 +552,7 @@
   },
   {
     "id": "bouquet-colore",
+    "imageUrl": "/images/thumb/0/01/Songs_bouquet-colore.png/256px-Songs_bouquet-colore.png",
     "artist": "Nego_tiator",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -576,6 +591,7 @@
   },
   {
     "id": "witches-party",
+    "imageUrl": "/images/thumb/d/dc/Songs_witches-party.png/256px-Songs_witches-party.png",
     "artist": "Kirara Magic feat. Shiroroll",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -614,6 +630,7 @@
   },
   {
     "id": "chrysanthemum",
+    "imageUrl": "/images/thumb/f/f7/Songs_chrysanthemum.png/256px-Songs_chrysanthemum.png",
     "artist": "7mai",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -652,6 +669,7 @@
   },
   {
     "id": "anthem",
+    "imageUrl": "/images/thumb/a/a9/Songs_anthem.png/256px-Songs_anthem.png",
     "artist": "Silaver & SOTUI",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -690,6 +708,7 @@
   },
   {
     "id": "in-a-diabolic-manner",
+    "imageUrl": "/images/thumb/2/2c/Songs_in-a-diabolic-manner.png/256px-Songs_in-a-diabolic-manner.png",
     "artist": "Nagiha",
     "releaseVersion": "1.0.3",
     "chapter": "基础歌曲",
@@ -728,6 +747,7 @@
   },
   {
     "id": "huggy-wuggy",
+    "imageUrl": "/images/thumb/a/a1/Songs_huggy-wuggy.png/256px-Songs_huggy-wuggy.png",
     "artist": "ZxNX",
     "releaseVersion": "1.0.3",
     "chapter": "第一章 - 旅程的开始",
@@ -766,6 +786,7 @@
   },
   {
     "id": "re-waked-from-abyss",
+    "imageUrl": "/images/thumb/d/d0/Songs_re-waked-from-abyss.png/256px-Songs_re-waked-from-abyss.png",
     "artist": "HeavenEGHD",
     "releaseVersion": "1.0.3",
     "chapter": "第一章 - 旅程的开始",
@@ -804,6 +825,7 @@
   },
   {
     "id": "the-promised-land",
+    "imageUrl": "/images/thumb/e/e4/Songs_the-promised-land.png/256px-Songs_the-promised-land.png",
     "artist": "Iris feat. LynH",
     "releaseVersion": "1.0.3",
     "chapter": "第一章 - 旅程的开始",
@@ -842,6 +864,7 @@
   },
   {
     "id": "aqua-stars",
+    "imageUrl": "/images/thumb/3/3d/Songs_aqua-stars.png/256px-Songs_aqua-stars.png",
     "artist": "Sound Souler",
     "releaseVersion": "1.0.3",
     "chapter": "第一章 - 旅程的开始",
@@ -880,6 +903,7 @@
   },
   {
     "id": "inverted-world",
+    "imageUrl": "/images/thumb/c/c7/Songs_inverted-world.png/256px-Songs_inverted-world.png",
     "artist": "ARForest",
     "releaseVersion": "1.0.3",
     "chapter": "第一章 - 旅程的开始",
@@ -918,6 +942,7 @@
   },
   {
     "id": "brain-crusher",
+    "imageUrl": "/images/thumb/8/83/Songs_brain-crusher.png/256px-Songs_brain-crusher.png",
     "artist": "Yasuha",
     "releaseVersion": "1.0.3",
     "chapter": "机械都市",
@@ -956,6 +981,7 @@
   },
   {
     "id": "velocity",
+    "imageUrl": "/images/thumb/1/1d/Songs_velocity.png/256px-Songs_velocity.png",
     "artist": "Soba",
     "releaseVersion": "1.0.3",
     "chapter": "机械都市",
@@ -994,6 +1020,7 @@
   },
   {
     "id": "invader",
+    "imageUrl": "/images/thumb/a/af/Songs_invader.png/256px-Songs_invader.png",
     "artist": "SLT",
     "releaseVersion": "1.0.3",
     "chapter": "机械都市",
@@ -1032,6 +1059,7 @@
   },
   {
     "id": "sterelogue",
+    "imageUrl": "/images/thumb/1/12/Songs_sterelogue.png/256px-Songs_sterelogue.png",
     "artist": "VeetaCrush",
     "releaseVersion": "1.0.3",
     "chapter": "机械都市",
@@ -1070,6 +1098,7 @@
   },
   {
     "id": "commotion",
+    "imageUrl": "/images/thumb/8/87/Songs_commotion.png/256px-Songs_commotion.png",
     "artist": "SLT",
     "releaseVersion": "1.0.3",
     "chapter": "机械都市",
@@ -1108,6 +1137,7 @@
   },
   {
     "id": "bystander-knife",
+    "imageUrl": "/images/thumb/5/53/Songs_bystander-knife.png/256px-Songs_bystander-knife.png",
     "artist": "Ref.Isep",
     "releaseVersion": "1.0.3",
     "chapter": "机械都市",
@@ -1146,6 +1176,7 @@
   },
   {
     "id": "cross-soul",
+    "imageUrl": "/images/thumb/d/d9/Songs_cross-soul.png/256px-Songs_cross-soul.png",
     "artist": "HyuN feat. Syepias",
     "releaseVersion": "1.0.3",
     "chapter": "巷角餐馆",
@@ -1184,6 +1215,7 @@
   },
   {
     "id": "estaminet",
+    "imageUrl": "/images/thumb/7/7c/Songs_estaminet.png/256px-Songs_estaminet.png",
     "artist": "rmk",
     "releaseVersion": "1.0.3",
     "chapter": "巷角餐馆",
@@ -1222,6 +1254,7 @@
   },
   {
     "id": "ef4123",
+    "imageUrl": "/images/thumb/5/53/Songs_ef4123.png/256px-Songs_ef4123.png",
     "artist": "RedMuffleR",
     "releaseVersion": "1.0.3",
     "chapter": "巷角餐馆",
@@ -1260,6 +1293,7 @@
   },
   {
     "id": "another-me",
+    "imageUrl": "/images/thumb/6/63/Songs_another-me.png/256px-Songs_another-me.png",
     "artist": "Neutral Moon",
     "releaseVersion": "1.0.3",
     "chapter": "巷角餐馆",
@@ -1298,6 +1332,7 @@
   },
   {
     "id": "nini",
+    "imageUrl": "/images/thumb/1/10/Songs_nini.png/256px-Songs_nini.png",
     "artist": "テヅカ x Qayo",
     "releaseVersion": "1.0.3",
     "chapter": "巷角餐馆",
@@ -1337,6 +1372,7 @@
   },
   {
     "id": "re-prosperitas",
+    "imageUrl": "/images/thumb/e/e6/Songs_re-prosperitas.png/256px-Songs_re-prosperitas.png",
     "artist": "Nagiha",
     "releaseVersion": "1.0.3",
     "chapter": "巷角餐馆",
@@ -1375,6 +1411,7 @@
   },
   {
     "id": "gokusaishoku-no-yutopia",
+    "imageUrl": "/images/thumb/5/5f/Songs_gokusaishoku-no-yutopia.png/256px-Songs_gokusaishoku-no-yutopia.png",
     "artist": "HyuN feat. kradness",
     "releaseVersion": "1.0.3",
     "chapter": "星际之声",
@@ -1414,6 +1451,7 @@
   },
   {
     "id": "a-philosophical-wanderer",
+    "imageUrl": "/images/thumb/5/51/Songs_a-philosophical-wanderer.png/256px-Songs_a-philosophical-wanderer.png",
     "artist": "テヅカ x Yunosuke",
     "releaseVersion": "1.0.5",
     "chapter": "星际之声",
@@ -1452,6 +1490,7 @@
   },
   {
     "id": "pupa",
+    "imageUrl": "/images/thumb/4/4b/Songs_pupa.png/256px-Songs_pupa.png",
     "artist": "モリモリあつし",
     "releaseVersion": "1.0.6",
     "chapter": "星际之声",
@@ -1490,6 +1529,7 @@
   },
   {
     "id": "king",
+    "imageUrl": "/images/thumb/b/b8/Songs_king.png/256px-Songs_king.png",
     "artist": "Kanaria",
     "releaseVersion": "1.0.7",
     "chapter": "星际之声",
@@ -1528,6 +1568,7 @@
   },
   {
     "id": "csqn",
+    "imageUrl": "/images/thumb/f/f1/Songs_csqn.png/256px-Songs_csqn.png",
     "artist": "Aoi",
     "releaseVersion": "1.1.1",
     "chapter": "几何律动",
@@ -1566,6 +1607,7 @@
   },
   {
     "id": "memory-of-sunrise",
+    "imageUrl": "/images/thumb/7/7f/Songs_memory-of-sunrise.png/256px-Songs_memory-of-sunrise.png",
     "artist": "nora2r",
     "releaseVersion": "1.1.1",
     "chapter": "几何律动",
@@ -1604,6 +1646,7 @@
   },
   {
     "id": "light-into-scheelite",
+    "imageUrl": "/images/thumb/f/f1/Songs_light-into-scheelite.png/256px-Songs_light-into-scheelite.png",
     "artist": "MYUKKE.",
     "releaseVersion": "1.1.1",
     "chapter": "几何律动",
@@ -1642,6 +1685,7 @@
   },
   {
     "id": "gecko",
+    "imageUrl": "/images/thumb/4/40/Songs_gecko.png/256px-Songs_gecko.png",
     "artist": "RedMuffleR",
     "releaseVersion": "1.1.1",
     "chapter": "几何律动",
@@ -1680,6 +1724,7 @@
   },
   {
     "id": "in",
+    "imageUrl": "/images/thumb/6/6e/Songs_in.png/256px-Songs_in.png",
     "artist": "Zris feat. Katie",
     "releaseVersion": "1.1.1",
     "chapter": "几何律动",
@@ -1718,6 +1763,7 @@
   },
   {
     "id": "converge",
+    "imageUrl": "/images/thumb/6/69/Songs_converge.png/256px-Songs_converge.png",
     "artist": "SOTUI x Hundotte",
     "releaseVersion": "1.1.2",
     "chapter": "基础歌曲",
@@ -1756,6 +1802,7 @@
   },
   {
     "id": "shinde-shimatta-kisetsu-no-kakera",
+    "imageUrl": "/images/thumb/e/ef/Songs_shinde-shimatta-kisetsu-no-kakera.png/256px-Songs_shinde-shimatta-kisetsu-no-kakera.png",
     "artist": "HyuN feat. トコノコα",
     "releaseVersion": "1.1.2",
     "chapter": "星际之声",
@@ -1795,6 +1842,7 @@
   },
   {
     "id": "life-is-piano",
+    "imageUrl": "/images/thumb/2/23/Songs_life-is-piano.png/256px-Songs_life-is-piano.png",
     "artist": "Junk",
     "releaseVersion": "1.2.0",
     "chapter": "钢琴人生",
@@ -1833,6 +1881,7 @@
   },
   {
     "id": "rip",
+    "imageUrl": "/images/thumb/f/fc/Songs_rip.png/256px-Songs_rip.png",
     "artist": "eicateve",
     "releaseVersion": "1.2.0",
     "chapter": "钢琴人生",
@@ -1871,6 +1920,7 @@
   },
   {
     "id": "star-cape",
+    "imageUrl": "/images/thumb/d/d0/Songs_star-cape.png/256px-Songs_star-cape.png",
     "artist": "打打だいず",
     "releaseVersion": "1.2.0",
     "chapter": "钢琴人生",
@@ -1909,6 +1959,7 @@
   },
   {
     "id": "alice-in-a-xxxxxxxx",
+    "imageUrl": "/images/thumb/6/69/Songs_alice-in-a-xxxxxxxx.png/256px-Songs_alice-in-a-xxxxxxxx.png",
     "artist": "Nagiha",
     "releaseVersion": "1.2.0",
     "chapter": "钢琴人生",
@@ -1947,6 +1998,7 @@
   },
   {
     "id": "disorder",
+    "imageUrl": "/images/thumb/1/12/Songs_disorder.png/256px-Songs_disorder.png",
     "artist": "HyuN",
     "releaseVersion": "1.2.0",
     "chapter": "钢琴人生",
@@ -1985,6 +2037,7 @@
   },
   {
     "id": "wakare-no-jokyoku",
+    "imageUrl": "/images/thumb/5/55/Songs_wakare-no-jokyoku.png/256px-Songs_wakare-no-jokyoku.png",
     "artist": "HyuN feat. Sennzai",
     "releaseVersion": "1.3.0",
     "chapter": "基础歌曲",
@@ -2024,6 +2077,7 @@
   },
   {
     "id": "my-story",
+    "imageUrl": "/images/thumb/8/8b/Songs_my-story.png/256px-Songs_my-story.png",
     "artist": "KOTONOHOUSE",
     "releaseVersion": "1.3.0",
     "chapter": "深夏清梦",
@@ -2062,6 +2116,7 @@
   },
   {
     "id": "sweet-dreams",
+    "imageUrl": "/images/thumb/7/76/Songs_sweet-dreams.png/256px-Songs_sweet-dreams.png",
     "artist": "Neko Hacker",
     "releaseVersion": "1.3.0",
     "chapter": "深夏清梦",
@@ -2100,6 +2155,7 @@
   },
   {
     "id": "indoor-kei-nara-track-maker",
+    "imageUrl": "/images/thumb/1/15/Songs_indoor-kei-nara-track-maker.png/256px-Songs_indoor-kei-nara-track-maker.png",
     "artist": "Yunomi & nicamoq",
     "releaseVersion": "1.3.0",
     "chapter": "深夏清梦",
@@ -2139,6 +2195,7 @@
   },
   {
     "id": "autumn-breeze",
+    "imageUrl": "/images/thumb/3/33/Songs_autumn-breeze.png/256px-Songs_autumn-breeze.png",
     "artist": "MYOYA",
     "releaseVersion": "1.3.0",
     "chapter": "深夏清梦",
@@ -2177,6 +2234,7 @@
   },
   {
     "id": "memories-of-the-past",
+    "imageUrl": "/images/thumb/f/f9/Songs_memories-of-the-past.png/256px-Songs_memories-of-the-past.png",
     "artist": "Mameyudoufu",
     "releaseVersion": "1.3.0",
     "chapter": "深夏清梦",
@@ -2215,6 +2273,7 @@
   },
   {
     "id": "cross-genocide",
+    "imageUrl": "/images/thumb/b/b7/Songs_cross-genocide.png/256px-Songs_cross-genocide.png",
     "artist": "HyuN feat. 蔡花零",
     "releaseVersion": "1.3.0",
     "chapter": "深夏清梦",
@@ -2253,6 +2312,7 @@
   },
   {
     "id": "let-you-dive",
+    "imageUrl": "/images/thumb/9/9c/Songs_let-you-dive.png/256px-Songs_let-you-dive.png",
     "artist": "HARDCORE TANO*C & エリザベス（CV:大西沙織）",
     "releaseVersion": "1.4.0",
     "chapter": "基础歌曲",
@@ -2291,6 +2351,7 @@
   },
   {
     "id": "with-u",
+    "imageUrl": "/images/thumb/9/9d/Songs_with-u.png/256px-Songs_with-u.png",
     "artist": "t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)",
     "releaseVersion": "1.4.0",
     "chapter": "WACCA联动",
@@ -2329,6 +2390,7 @@
   },
   {
     "id": "ouverture",
+    "imageUrl": "/images/thumb/d/d0/Songs_ouverture.png/256px-Songs_ouverture.png",
     "artist": "USAO & DJ Genki feat. ルーン(CV:河瀬茉希)",
     "releaseVersion": "1.4.0",
     "chapter": "WACCA联动",
@@ -2367,6 +2429,7 @@
   },
   {
     "id": "silentphobia",
+    "imageUrl": "/images/thumb/b/ba/Songs_silentphobia.png/256px-Songs_silentphobia.png",
     "artist": "t+pazolite VS 削除",
     "releaseVersion": "1.4.0",
     "chapter": "WACCA联动",
@@ -2405,6 +2468,7 @@
   },
   {
     "id": "dual-breaker-xx",
+    "imageUrl": "/images/thumb/e/ec/Songs_dual-breaker-xx.png/256px-Songs_dual-breaker-xx.png",
     "artist": "Srav3R vs Getty",
     "releaseVersion": "1.4.0",
     "chapter": "WACCA联动",
@@ -2443,6 +2507,7 @@
   },
   {
     "id": "quon",
+    "imageUrl": "/images/thumb/5/53/Songs_quon.png/256px-Songs_quon.png",
     "artist": "DJ Noriken",
     "releaseVersion": "1.4.0",
     "chapter": "WACCA联动",
@@ -2481,6 +2546,7 @@
   },
   {
     "id": "invisible-frenzy",
+    "imageUrl": "/images/thumb/1/19/Songs_invisible-frenzy.png/256px-Songs_invisible-frenzy.png",
     "artist": "Kobaryo",
     "releaseVersion": "1.4.0",
     "chapter": "WACCA联动",
@@ -2519,6 +2585,7 @@
   },
   {
     "id": "welcome-ssspooky",
+    "imageUrl": "/images/thumb/5/5c/Songs_welcome-ssspooky.png/256px-Songs_welcome-ssspooky.png",
     "artist": "Tanchiky & 打打だいず",
     "releaseVersion": "1.4.0",
     "chapter": "星际之声",
@@ -2557,6 +2624,7 @@
   },
   {
     "id": "is-this-real",
+    "imageUrl": "/images/thumb/5/50/Songs_is-this-real.png/256px-Songs_is-this-real.png",
     "artist": "SOTUI & NIKITA",
     "releaseVersion": "1.5.0",
     "chapter": "基础歌曲",
@@ -2595,6 +2663,7 @@
   },
   {
     "id": "grand-i-flora",
+    "imageUrl": "/images/thumb/5/50/Songs_grand-i-flora.png/256px-Songs_grand-i-flora.png",
     "artist": "DRIVE.",
     "releaseVersion": "1.5.0",
     "chapter": "透明色",
@@ -2633,6 +2702,7 @@
   },
   {
     "id": "lost-in-farside",
+    "imageUrl": "/images/thumb/2/2c/Songs_lost-in-farside.png/256px-Songs_lost-in-farside.png",
     "artist": "Sephid",
     "releaseVersion": "1.5.0",
     "chapter": "透明色",
@@ -2671,6 +2741,7 @@
   },
   {
     "id": "meltdown",
+    "imageUrl": "/images/thumb/8/8f/Songs_meltdown.png/256px-Songs_meltdown.png",
     "artist": "432pro & l'avenir proche",
     "releaseVersion": "1.5.0",
     "chapter": "透明色",
@@ -2709,6 +2780,7 @@
   },
   {
     "id": "quaoar",
+    "imageUrl": "/images/thumb/1/1a/Songs_quaoar.png/256px-Songs_quaoar.png",
     "artist": "かめりあ(Camellia)",
     "releaseVersion": "1.5.0",
     "chapter": "透明色",
@@ -2747,6 +2819,7 @@
   },
   {
     "id": "amethyst",
+    "imageUrl": "/images/thumb/9/90/Songs_amethyst.png/256px-Songs_amethyst.png",
     "artist": "かねこちはる",
     "releaseVersion": "1.5.0",
     "chapter": "透明色",
@@ -2785,6 +2858,7 @@
   },
   {
     "id": "ice-festival",
+    "imageUrl": "/images/thumb/9/98/Songs_ice-festival.png/256px-Songs_ice-festival.png",
     "artist": "Nota",
     "releaseVersion": "1.5.1",
     "chapter": "基础歌曲",
@@ -2823,6 +2897,7 @@
   },
   {
     "id": "obsidian",
+    "imageUrl": "/images/thumb/4/4c/Songs_obsidian.png/256px-Songs_obsidian.png",
     "artist": "UnD3ath",
     "releaseVersion": "1.5.1",
     "chapter": "星际之声",
@@ -2861,6 +2936,7 @@
   },
   {
     "id": "secret-illumination",
+    "imageUrl": "/images/thumb/d/da/Songs_secret-illumination.png/256px-Songs_secret-illumination.png",
     "artist": "Yooh",
     "releaseVersion": "1.6.0",
     "chapter": "第二章 - 灾难与希望",
@@ -2899,6 +2975,7 @@
   },
   {
     "id": "manifold-hypothesis",
+    "imageUrl": "/images/thumb/d/d3/Songs_manifold-hypothesis.png/256px-Songs_manifold-hypothesis.png",
     "artist": "cybermiso feat. tigerlily",
     "releaseVersion": "1.6.0",
     "chapter": "第二章 - 灾难与希望",
@@ -2937,6 +3014,7 @@
   },
   {
     "id": "aorist-hallucination",
+    "imageUrl": "/images/thumb/b/b4/Songs_aorist-hallucination.png/256px-Songs_aorist-hallucination.png",
     "artist": "FallN Leav",
     "releaseVersion": "1.6.0",
     "chapter": "第二章 - 灾难与希望",
@@ -2975,6 +3053,7 @@
   },
   {
     "id": "alive",
+    "imageUrl": "/images/thumb/4/40/Songs_alive.png/256px-Songs_alive.png",
     "artist": "eicateve",
     "releaseVersion": "1.6.0",
     "chapter": "第二章 - 灾难与希望",
@@ -3013,6 +3092,7 @@
   },
   {
     "id": "our-message",
+    "imageUrl": "/images/thumb/0/07/Songs_our-message.png/256px-Songs_our-message.png",
     "artist": "What's Your Price",
     "releaseVersion": "1.6.0",
     "chapter": "第二章 - 灾难与希望",
@@ -3051,6 +3131,7 @@
   },
   {
     "id": "galactic-warzone",
+    "imageUrl": "/images/thumb/a/a7/Songs_galactic-warzone.png/256px-Songs_galactic-warzone.png",
     "artist": "Akira Complex",
     "releaseVersion": "1.6.0",
     "chapter": "第二章 - 灾难与希望",
@@ -3089,6 +3170,7 @@
   },
   {
     "id": "phantom",
+    "imageUrl": "/images/thumb/9/95/Songs_phantom.png/256px-Songs_phantom.png",
     "artist": "Pica",
     "releaseVersion": "1.6.0",
     "chapter": "奥比之声",
@@ -3128,6 +3210,7 @@
   },
   {
     "id": "dear-my-memories",
+    "imageUrl": "/images/thumb/0/01/Songs_dear-my-memories.png/256px-Songs_dear-my-memories.png",
     "artist": "kuro",
     "releaseVersion": "1.6.0",
     "chapter": "奥比之声",
@@ -3166,6 +3249,7 @@
   },
   {
     "id": "life-flashes-before-weeb-eyes",
+    "imageUrl": "/images/thumb/a/a1/Songs_life-flashes-before-weeb-eyes.png/256px-Songs_life-flashes-before-weeb-eyes.png",
     "artist": "BilliumMoto",
     "releaseVersion": "1.6.0",
     "chapter": "奥比之声",
@@ -3204,6 +3288,7 @@
   },
   {
     "id": "fly-again",
+    "imageUrl": "/images/thumb/2/2a/Songs_fly-again.png/256px-Songs_fly-again.png",
     "artist": "Fujiyori",
     "releaseVersion": "1.6.0",
     "chapter": "奥比之声",
@@ -3242,6 +3327,7 @@
   },
   {
     "id": "spinel",
+    "imageUrl": "/images/thumb/1/18/Songs_spinel.png/256px-Songs_spinel.png",
     "artist": "ぺのれり(penoreri)",
     "releaseVersion": "1.6.0",
     "chapter": "奥比之声",
@@ -3280,6 +3366,7 @@
   },
   {
     "id": "calorific-refract",
+    "imageUrl": "/images/thumb/2/25/Songs_calorific-refract.png/256px-Songs_calorific-refract.png",
     "artist": "Tatsh",
     "releaseVersion": "1.6.0",
     "chapter": "奥比之声",
@@ -3318,6 +3405,7 @@
   },
   {
     "id": "excez",
+    "imageUrl": "/images/thumb/6/69/Songs_excez.png/256px-Songs_excez.png",
     "artist": "Aoi",
     "releaseVersion": "1.6.0",
     "chapter": "奥比之声",
@@ -3356,6 +3444,7 @@
   },
   {
     "id": "battle-no1",
+    "imageUrl": "/images/thumb/1/19/Songs_battle-no1.png/256px-Songs_battle-no1.png",
     "artist": "TANO*C Sound Team",
     "releaseVersion": "1.7.0",
     "chapter": "基础歌曲",
@@ -3394,6 +3483,7 @@
   },
   {
     "id": "you-n-die",
+    "imageUrl": "/images/thumb/d/d3/Songs_you-n-die.png/256px-Songs_you-n-die.png",
     "artist": "USAO",
     "releaseVersion": "1.7.0",
     "chapter": "TANO*C合作",
@@ -3432,6 +3522,7 @@
   },
   {
     "id": "shooting-stars",
+    "imageUrl": "/images/thumb/c/cd/Songs_shooting-stars.png/256px-Songs_shooting-stars.png",
     "artist": "DJ Genki",
     "releaseVersion": "1.7.0",
     "chapter": "TANO*C合作",
@@ -3470,6 +3561,7 @@
   },
   {
     "id": "higher",
+    "imageUrl": "/images/thumb/8/8a/Songs_higher.png/256px-Songs_higher.png",
     "artist": "REDALiCE",
     "releaseVersion": "1.7.0",
     "chapter": "TANO*C合作",
@@ -3508,6 +3600,7 @@
   },
   {
     "id": "maholova",
+    "imageUrl": "/images/thumb/1/19/Songs_maholova.png/256px-Songs_maholova.png",
     "artist": "aran",
     "releaseVersion": "1.7.0",
     "chapter": "TANO*C合作",
@@ -3546,6 +3639,7 @@
   },
   {
     "id": "recollection",
+    "imageUrl": "/images/thumb/f/f4/Songs_recollection.png/256px-Songs_recollection.png",
     "artist": "Kobaryo",
     "releaseVersion": "1.7.0",
     "chapter": "TANO*C合作",
@@ -3584,6 +3678,7 @@
   },
   {
     "id": "lunatixxx-gear",
+    "imageUrl": "/images/thumb/7/73/Songs_lunatixxx-gear.png/256px-Songs_lunatixxx-gear.png",
     "artist": "Laur vs HyuN",
     "releaseVersion": "1.7.0",
     "chapter": "TANO*C合作",
@@ -3622,6 +3717,7 @@
   },
   {
     "id": "blastrick",
+    "imageUrl": "/images/thumb/5/5e/Songs_blastrick.png/256px-Songs_blastrick.png",
     "artist": "K4Y5",
     "releaseVersion": "1.8.0",
     "chapter": "基础歌曲",
@@ -3660,6 +3756,7 @@
   },
   {
     "id": "stray-soul-around",
+    "imageUrl": "/images/thumb/2/2a/Songs_stray-soul-around.png/256px-Songs_stray-soul-around.png",
     "artist": "みーに",
     "releaseVersion": "1.8.0",
     "chapter": "基础歌曲",
@@ -3699,6 +3796,7 @@
   },
   {
     "id": "snapdragon",
+    "imageUrl": "/images/thumb/5/5f/Songs_snapdragon.png/256px-Songs_snapdragon.png",
     "artist": "NeLiMe",
     "releaseVersion": "1.8.0",
     "chapter": "轨迹：梦想萌芽的那一天",
@@ -3737,6 +3835,7 @@
   },
   {
     "id": "9876734123",
+    "imageUrl": "/images/thumb/6/69/Songs_9876734123.png/256px-Songs_9876734123.png",
     "artist": "Silentroom",
     "releaseVersion": "1.8.0",
     "chapter": "轨迹：梦想萌芽的那一天",
@@ -3775,6 +3874,7 @@
   },
   {
     "id": "brave-my-soul",
+    "imageUrl": "/images/thumb/6/68/Songs_brave-my-soul.png/256px-Songs_brave-my-soul.png",
     "artist": "uma feat. ましろ",
     "releaseVersion": "1.8.0",
     "chapter": "轨迹：梦想萌芽的那一天",
@@ -3813,6 +3913,7 @@
   },
   {
     "id": "awaking-beat",
+    "imageUrl": "/images/thumb/2/22/Songs_awaking-beat.png/256px-Songs_awaking-beat.png",
     "artist": "nmk feat.橘花音",
     "releaseVersion": "1.8.0",
     "chapter": "轨迹：梦想萌芽的那一天",
@@ -3851,6 +3952,7 @@
   },
   {
     "id": "cosmic-starter",
+    "imageUrl": "/images/thumb/5/5e/Songs_cosmic-starter.png/256px-Songs_cosmic-starter.png",
     "artist": "TAG feat. HyuN",
     "releaseVersion": "1.8.0",
     "chapter": "轨迹：梦想萌芽的那一天",
@@ -3889,6 +3991,7 @@
   },
   {
     "id": "on-and-on",
+    "imageUrl": "/images/thumb/9/9a/Songs_on-and-on.png/256px-Songs_on-and-on.png",
     "artist": "ETIA. feat. Jenga",
     "releaseVersion": "1.8.0",
     "chapter": "轨迹：梦想萌芽的那一天",
@@ -3927,6 +4030,7 @@
   },
   {
     "id": "the-formula",
+    "imageUrl": "/images/thumb/d/da/Songs_the-formula.png/256px-Songs_the-formula.png",
     "artist": "Junk",
     "releaseVersion": "1.8.2",
     "chapter": "基础歌曲",
@@ -3965,6 +4069,7 @@
   },
   {
     "id": "milk",
+    "imageUrl": "/images/thumb/7/7f/Songs_milk.png/256px-Songs_milk.png",
     "artist": "モリモリあつし",
     "releaseVersion": "1.8.2",
     "chapter": "星际之声",
@@ -4003,6 +4108,7 @@
   },
   {
     "id": "rush-e",
+    "imageUrl": "/images/thumb/2/29/Songs_rush-e.png/256px-Songs_rush-e.png",
     "artist": "Sheet Music Boss",
     "releaseVersion": "1.9.0",
     "chapter": "基础歌曲",
@@ -4041,6 +4147,7 @@
   },
   {
     "id": "journey-with-you",
+    "imageUrl": "/images/thumb/8/88/Songs_journey-with-you.png/256px-Songs_journey-with-you.png",
     "artist": "Iris",
     "releaseVersion": "1.9.0",
     "chapter": "基础歌曲",
@@ -4079,6 +4186,7 @@
   },
   {
     "id": "junky-night-town-orchestra",
+    "imageUrl": "/images/thumb/6/64/Songs_junky-night-town-orchestra.png/256px-Songs_junky-night-town-orchestra.png",
     "artist": "すりぃ",
     "releaseVersion": "1.9.0",
     "chapter": "自未来的歌",
@@ -4118,6 +4226,7 @@
   },
   {
     "id": "lagtrain",
+    "imageUrl": "/images/thumb/0/06/Songs_lagtrain.png/256px-Songs_lagtrain.png",
     "artist": "稲葉曇",
     "releaseVersion": "1.9.0",
     "chapter": "自未来的歌",
@@ -4157,6 +4266,7 @@
   },
   {
     "id": "irony",
+    "imageUrl": "/images/thumb/4/4e/Songs_irony.png/256px-Songs_irony.png",
     "artist": "すこっぷ",
     "releaseVersion": "1.9.0",
     "chapter": "自未来的歌",
@@ -4196,6 +4306,7 @@
   },
   {
     "id": "machine-gun",
+    "imageUrl": "/images/thumb/c/c6/Songs_machine-gun.png/256px-Songs_machine-gun.png",
     "artist": "KIRA",
     "releaseVersion": "1.9.0",
     "chapter": "自未来的歌",
@@ -4234,6 +4345,7 @@
   },
   {
     "id": "one-percent-love",
+    "imageUrl": "/images/thumb/d/df/Songs_one-percent-love.png/256px-Songs_one-percent-love.png",
     "artist": "すりぃ",
     "releaseVersion": "1.9.0",
     "chapter": "自未来的歌",
@@ -4273,6 +4385,7 @@
   },
   {
     "id": "edge-of-bravery",
+    "imageUrl": "/images/thumb/3/3c/Songs_edge-of-bravery.png/256px-Songs_edge-of-bravery.png",
     "artist": "みーに",
     "releaseVersion": "1.9.0",
     "chapter": "自未来的歌",
@@ -4311,6 +4424,7 @@
   },
   {
     "id": "fallin-fallin",
+    "imageUrl": "/images/thumb/9/9a/Songs_fallin-fallin.png/256px-Songs_fallin-fallin.png",
     "artist": "kradness",
     "releaseVersion": "1.10.0",
     "chapter": "基础歌曲",
@@ -4349,6 +4463,7 @@
   },
   {
     "id": "revocate",
+    "imageUrl": "/images/thumb/f/f9/Songs_revocate.png/256px-Songs_revocate.png",
     "artist": "kuro",
     "releaseVersion": "1.10.0",
     "chapter": "KALPA联动",
@@ -4387,6 +4502,7 @@
   },
   {
     "id": "dont-never-around",
+    "imageUrl": "/images/thumb/6/6a/Songs_dont-never-around.png/256px-Songs_dont-never-around.png",
     "artist": "HAMA",
     "releaseVersion": "1.10.0",
     "chapter": "KALPA联动",
@@ -4425,6 +4541,7 @@
   },
   {
     "id": "evocator",
+    "imageUrl": "/images/thumb/a/a4/Songs_evocator.png/256px-Songs_evocator.png",
     "artist": "Evin a'k",
     "releaseVersion": "1.10.0",
     "chapter": "KALPA联动",
@@ -4463,6 +4580,7 @@
   },
   {
     "id": "eschatology",
+    "imageUrl": "/images/thumb/3/38/Songs_eschatology.png/256px-Songs_eschatology.png",
     "artist": "Tatsh & Scarlette",
     "releaseVersion": "1.10.0",
     "chapter": "KALPA联动",
@@ -4501,6 +4619,7 @@
   },
   {
     "id": "my-heaven-magical-mix",
+    "imageUrl": "/images/thumb/e/e5/Songs_my-heaven-magical-mix.png/256px-Songs_my-heaven-magical-mix.png",
     "artist": "Scarlette X Juggernaut.",
     "releaseVersion": "1.10.0",
     "chapter": "KALPA联动",
@@ -4539,6 +4658,7 @@
   },
   {
     "id": "avataar",
+    "imageUrl": "/images/thumb/1/18/Songs_avataar.png/256px-Songs_avataar.png",
     "artist": "Scarlette a.k.a. CrYmson",
     "releaseVersion": "1.10.0",
     "chapter": "KALPA联动",
@@ -4577,6 +4697,7 @@
   },
   {
     "id": "azure-sky",
+    "imageUrl": "/images/thumb/a/a0/Songs_azure-sky.png/256px-Songs_azure-sky.png",
     "artist": "NeLiME",
     "releaseVersion": "1.11.0",
     "chapter": "基础歌曲",
@@ -4615,6 +4736,7 @@
   },
   {
     "id": "hoshifuruyoru-to-ichirin-no-hana",
+    "imageUrl": "/images/thumb/f/f3/Songs_hoshifuruyoru-to-ichirin-no-hana.png/256px-Songs_hoshifuruyoru-to-ichirin-no-hana.png",
     "artist": "seatrus",
     "releaseVersion": "1.11.0",
     "chapter": "我们的相遇",
@@ -4654,6 +4776,7 @@
   },
   {
     "id": "eternal-calm",
+    "imageUrl": "/images/thumb/c/c7/Songs_eternal-calm.png/256px-Songs_eternal-calm.png",
     "artist": "長沼浩太(パパ頑張りました)",
     "releaseVersion": "1.11.0",
     "chapter": "我们的相遇",
@@ -4692,6 +4815,7 @@
   },
   {
     "id": "magenta-potion",
+    "imageUrl": "/images/thumb/8/88/Songs_magenta-potion.png/256px-Songs_magenta-potion.png",
     "artist": "EmoCosine",
     "releaseVersion": "1.11.0",
     "chapter": "我们的相遇",
@@ -4730,6 +4854,7 @@
   },
   {
     "id": "sense",
+    "imageUrl": "/images/thumb/3/34/Songs_sense.png/256px-Songs_sense.png",
     "artist": "BilliumMoto × Silentroom",
     "releaseVersion": "1.11.0",
     "chapter": "我们的相遇",
@@ -4768,6 +4893,7 @@
   },
   {
     "id": "looking-for-stella",
+    "imageUrl": "/images/thumb/5/51/Songs_looking-for-stella.png/256px-Songs_looking-for-stella.png",
     "artist": "Junk",
     "releaseVersion": "1.11.0",
     "chapter": "我们的相遇",
@@ -4806,6 +4932,7 @@
   },
   {
     "id": "fate-of-aria",
+    "imageUrl": "/images/thumb/e/e4/Songs_fate-of-aria.png/256px-Songs_fate-of-aria.png",
     "artist": "HyuN feat.花たん",
     "releaseVersion": "1.11.0",
     "chapter": "我们的相遇",
@@ -4844,6 +4971,7 @@
   },
   {
     "id": "nyarlathoteps-dreamland",
+    "imageUrl": "/images/thumb/8/88/Songs_nyarlathoteps-dreamland.png/256px-Songs_nyarlathoteps-dreamland.png",
     "artist": "Raimukun",
     "releaseVersion": "1.12.0",
     "chapter": "基础歌曲",
@@ -4882,6 +5010,7 @@
   },
   {
     "id": "nighttheater",
+    "imageUrl": "/images/thumb/6/65/Songs_nighttheater.png/256px-Songs_nighttheater.png",
     "artist": "わかどり",
     "releaseVersion": "1.12.0",
     "chapter": "放克派对",
@@ -4920,6 +5049,7 @@
   },
   {
     "id": "giselle",
+    "imageUrl": "/images/thumb/d/d9/Songs_giselle.png/256px-Songs_giselle.png",
     "artist": "Sobrem a.k.a. Widowmaker",
     "releaseVersion": "1.12.0",
     "chapter": "放克派对",
@@ -4958,6 +5088,7 @@
   },
   {
     "id": "wakatterukedo",
+    "imageUrl": "/images/thumb/2/2e/Songs_wakatterukedo.png/256px-Songs_wakatterukedo.png",
     "artist": "HyuN feat. LyuU",
     "releaseVersion": "1.12.0",
     "chapter": "放克派对",
@@ -4997,6 +5128,7 @@
   },
   {
     "id": "spooky-dance-party",
+    "imageUrl": "/images/thumb/4/4c/Songs_spooky-dance-party.png/256px-Songs_spooky-dance-party.png",
     "artist": "seatrus",
     "releaseVersion": "1.12.0",
     "chapter": "放克派对",
@@ -5036,6 +5168,7 @@
   },
   {
     "id": "marble-joker",
+    "imageUrl": "/images/thumb/3/3b/Songs_marble-joker.png/256px-Songs_marble-joker.png",
     "artist": "pan",
     "releaseVersion": "1.12.0",
     "chapter": "放克派对",
@@ -5074,6 +5207,7 @@
   },
   {
     "id": "phantago",
+    "imageUrl": "/images/thumb/5/5a/Songs_phantago.png/256px-Songs_phantago.png",
     "artist": "Nagiha",
     "releaseVersion": "1.12.0",
     "chapter": "放克派对",
@@ -5112,6 +5246,7 @@
   },
   {
     "id": "no-one-yes-man",
+    "imageUrl": "/images/thumb/3/3b/Songs_no-one-yes-man.png/256px-Songs_no-one-yes-man.png",
     "artist": "MYUKKE.",
     "releaseVersion": "1.13.0",
     "chapter": "基础歌曲",
@@ -5150,6 +5285,7 @@
   },
   {
     "id": "break-over",
+    "imageUrl": "/images/thumb/3/35/Songs_break-over.png/256px-Songs_break-over.png",
     "artist": "K-forest",
     "releaseVersion": "1.13.0",
     "chapter": "Phigros联动",
@@ -5188,6 +5324,7 @@
   },
   {
     "id": "feast-from-the-east",
+    "imageUrl": "/images/thumb/0/06/Songs_feast-from-the-east.png/256px-Songs_feast-from-the-east.png",
     "artist": "茶鸣拾贰律",
     "releaseVersion": "1.13.0",
     "chapter": "Phigros联动",
@@ -5227,6 +5364,7 @@
   },
   {
     "id": "distorted-fate",
+    "imageUrl": "/images/thumb/c/ca/Songs_distorted-fate.png/256px-Songs_distorted-fate.png",
     "artist": "Sakuzyo",
     "releaseVersion": "1.13.0",
     "chapter": "Phigros联动",
@@ -5265,6 +5403,7 @@
   },
   {
     "id": "rrharil",
+    "imageUrl": "/images/thumb/9/9e/Songs_rrharil.png/256px-Songs_rrharil.png",
     "artist": "Team Grimoire",
     "releaseVersion": "1.13.0",
     "chapter": "Phigros联动",
@@ -5303,6 +5442,7 @@
   },
   {
     "id": "igallta",
+    "imageUrl": "/images/thumb/0/05/Songs_igallta.png/256px-Songs_igallta.png",
     "artist": "Se-U-Ra",
     "releaseVersion": "1.13.0",
     "chapter": "Phigros联动",
@@ -5341,6 +5481,7 @@
   },
   {
     "id": "mistilteinn",
+    "imageUrl": "/images/thumb/8/8e/Songs_mistilteinn.png/256px-Songs_mistilteinn.png",
     "artist": "iTIC",
     "releaseVersion": "1.13.2",
     "chapter": "星际之声",
@@ -5379,6 +5520,7 @@
   },
   {
     "id": "swirling-blue",
+    "imageUrl": "/images/thumb/0/0a/Songs_swirling-blue.png/256px-Songs_swirling-blue.png",
     "artist": "Nagiha",
     "releaseVersion": "1.13.2",
     "chapter": "星际之声",
@@ -5417,6 +5559,7 @@
   },
   {
     "id": "angel-dust",
+    "imageUrl": "/images/thumb/f/f1/Songs_angel-dust.png/256px-Songs_angel-dust.png",
     "artist": "LV.4",
     "releaseVersion": "1.13.3",
     "chapter": "星际之声",
@@ -5455,6 +5598,7 @@
   },
   {
     "id": "daydream",
+    "imageUrl": "/images/thumb/2/2a/Songs_daydream.png/256px-Songs_daydream.png",
     "artist": "RiraN",
     "releaseVersion": "1.13.3",
     "chapter": "星际之声",
@@ -5493,6 +5637,7 @@
   },
   {
     "id": "internet-overdose",
+    "imageUrl": "/images/thumb/5/5e/Songs_internet-overdose.png/256px-Songs_internet-overdose.png",
     "artist": "Aiobahn feat. KOTOKO",
     "releaseVersion": "1.13.3",
     "chapter": "星际之声",
@@ -5531,6 +5676,7 @@
   },
   {
     "id": "revel",
+    "imageUrl": "/images/thumb/1/1d/Songs_revel.png/256px-Songs_revel.png",
     "artist": "Yu_Asahina as Orange Vox+ ft.AKA",
     "releaseVersion": "1.14.0",
     "chapter": "基础歌曲",
@@ -5569,6 +5715,7 @@
   },
   {
     "id": "wish-upon-vivid-stars",
+    "imageUrl": "/images/thumb/1/1b/Songs_wish-upon-vivid-stars.png/256px-Songs_wish-upon-vivid-stars.png",
     "artist": "Reku Mochizuki",
     "releaseVersion": "1.14.0",
     "chapter": "紫夜狂欢",
@@ -5607,6 +5754,7 @@
   },
   {
     "id": "vesta",
+    "imageUrl": "/images/thumb/3/3a/Songs_vesta.png/256px-Songs_vesta.png",
     "artist": "Saiph",
     "releaseVersion": "1.14.0",
     "chapter": "紫夜狂欢",
@@ -5645,6 +5793,7 @@
   },
   {
     "id": "conflict",
+    "imageUrl": "/images/thumb/9/96/Songs_conflict.png/256px-Songs_conflict.png",
     "artist": "siromaru + cranky",
     "releaseVersion": "1.14.0",
     "chapter": "紫夜狂欢",
@@ -5683,6 +5832,7 @@
   },
   {
     "id": "yinmn-blue",
+    "imageUrl": "/images/thumb/6/61/Songs_yinmn-blue.png/256px-Songs_yinmn-blue.png",
     "artist": "siqlo",
     "releaseVersion": "1.14.0",
     "chapter": "紫夜狂欢",
@@ -5721,6 +5871,7 @@
   },
   {
     "id": "cosmic-railroad",
+    "imageUrl": "/images/thumb/b/b4/Songs_cosmic-railroad.png/256px-Songs_cosmic-railroad.png",
     "artist": "kanone",
     "releaseVersion": "1.14.0",
     "chapter": "紫夜狂欢",
@@ -5759,6 +5910,7 @@
   },
   {
     "id": "mvurbd",
+    "imageUrl": "/images/thumb/0/07/Songs_mvurbd.png/256px-Songs_mvurbd.png",
     "artist": "ETIA.",
     "releaseVersion": "1.14.0",
     "chapter": "紫夜狂欢",
@@ -5797,6 +5949,7 @@
   },
   {
     "id": "provison",
+    "imageUrl": "/images/thumb/b/b6/Songs_provison.png/256px-Songs_provison.png",
     "artist": "connexio",
     "releaseVersion": "1.14.1",
     "chapter": "基础歌曲",
@@ -5835,6 +5988,7 @@
   },
   {
     "id": "today-is-not-tomorrow",
+    "imageUrl": "/images/thumb/5/59/Songs_today-is-not-tomorrow.png/256px-Songs_today-is-not-tomorrow.png",
     "artist": "PIKASONIC feat.兰音Reine",
     "releaseVersion": "1.14.1",
     "chapter": "音波狂潮",
@@ -5874,6 +6028,7 @@
   },
   {
     "id": "love-you-i-imagined",
+    "imageUrl": "/images/thumb/5/5d/Songs_love-you-i-imagined.png/256px-Songs_love-you-i-imagined.png",
     "artist": "KOTONOHOUSE feat.穆小泠",
     "releaseVersion": "1.14.1",
     "chapter": "音波狂潮",
@@ -5913,6 +6068,7 @@
   },
   {
     "id": "galaxy-striker",
+    "imageUrl": "/images/thumb/2/2e/Songs_galaxy-striker.png/256px-Songs_galaxy-striker.png",
     "artist": "M2U",
     "releaseVersion": "1.14.1",
     "chapter": "星际之声",
@@ -5951,6 +6107,7 @@
   },
   {
     "id": "silver-town",
+    "imageUrl": "/images/thumb/1/11/Songs_silver-town.png/256px-Songs_silver-town.png",
     "artist": "Memme",
     "releaseVersion": "1.14.1",
     "chapter": "星际之声",
@@ -5989,6 +6146,7 @@
   },
   {
     "id": "make-up-your-world",
+    "imageUrl": "/images/thumb/3/32/Songs_make-up-your-world.png/256px-Songs_make-up-your-world.png",
     "artist": "t+pazolite & Srav3R",
     "releaseVersion": "1.15.0",
     "chapter": "基础歌曲",
@@ -6027,6 +6185,7 @@
   },
   {
     "id": "break-through-myself",
+    "imageUrl": "/images/thumb/3/38/Songs_break-through-myself.png/256px-Songs_break-through-myself.png",
     "artist": "DJ Myosuke & Laur",
     "releaseVersion": "1.15.0",
     "chapter": "基础歌曲",
@@ -6065,6 +6224,7 @@
   },
   {
     "id": "strange-bar",
+    "imageUrl": "/images/thumb/8/87/Songs_strange-bar.png/256px-Songs_strange-bar.png",
     "artist": "Laur",
     "releaseVersion": "1.15.0",
     "chapter": "HARDCORE TANO*C联动II",
@@ -6103,6 +6263,7 @@
   },
   {
     "id": "un1te",
+    "imageUrl": "/images/thumb/f/f5/Songs_un1te.png/256px-Songs_un1te.png",
     "artist": "Massive New Krew",
     "releaseVersion": "1.15.0",
     "chapter": "HARDCORE TANO*C联动II",
@@ -6141,6 +6302,7 @@
   },
   {
     "id": "because-of-you",
+    "imageUrl": "/images/thumb/1/10/Songs_because-of-you.png/256px-Songs_because-of-you.png",
     "artist": "Srav3R & USAO",
     "releaseVersion": "1.15.0",
     "chapter": "HARDCORE TANO*C联动II",
@@ -6179,6 +6341,7 @@
   },
   {
     "id": "luminosity",
+    "imageUrl": "/images/thumb/f/f6/Songs_luminosity.png/256px-Songs_luminosity.png",
     "artist": "DJ Noriken",
     "releaseVersion": "1.15.0",
     "chapter": "HARDCORE TANO*C联动II",
@@ -6217,6 +6380,7 @@
   },
   {
     "id": "dual-doom-deathmatch",
+    "imageUrl": "/images/thumb/a/ac/Songs_dual-doom-deathmatch.png/256px-Songs_dual-doom-deathmatch.png",
     "artist": "Kobaryo vs HyuN",
     "releaseVersion": "1.15.0",
     "chapter": "HARDCORE TANO*C联动II",
@@ -6255,6 +6419,7 @@
   },
   {
     "id": "flashback-flicker",
+    "imageUrl": "/images/thumb/5/5c/Songs_flashback-flicker.png/256px-Songs_flashback-flicker.png",
     "artist": "t+pazolite",
     "releaseVersion": "1.15.0",
     "chapter": "HARDCORE TANO*C联动II",
@@ -6293,6 +6458,7 @@
   },
   {
     "id": "apocalypse",
+    "imageUrl": "/images/thumb/6/6b/Songs_apocalypse.png/256px-Songs_apocalypse.png",
     "artist": "Alice Schach and the Magic Orchestra",
     "releaseVersion": "1.16.0",
     "chapter": "基础歌曲",
@@ -6331,6 +6497,7 @@
   },
   {
     "id": "yukianesa",
+    "imageUrl": "/images/thumb/4/4d/Songs_yukianesa.png/256px-Songs_yukianesa.png",
     "artist": "tezuka",
     "releaseVersion": "1.16.0",
     "chapter": "基础歌曲",
@@ -6369,6 +6536,7 @@
   },
   {
     "id": "song-for-sprites",
+    "imageUrl": "/images/thumb/4/4e/Songs_song-for-sprites.png/256px-Songs_song-for-sprites.png",
     "artist": "Sta",
     "releaseVersion": "1.16.0",
     "chapter": "Lanota联动",
@@ -6407,6 +6575,7 @@
   },
   {
     "id": "cyanine",
+    "imageUrl": "/images/thumb/c/c2/Songs_cyanine.png/256px-Songs_cyanine.png",
     "artist": "jioyi",
     "releaseVersion": "1.16.0",
     "chapter": "Lanota联动",
@@ -6445,6 +6614,7 @@
   },
   {
     "id": "androgynos2",
+    "imageUrl": "/images/thumb/3/34/Songs_androgynos2.png/256px-Songs_androgynos2.png",
     "artist": "WAiKURO",
     "releaseVersion": "1.16.0",
     "chapter": "Lanota联动",
@@ -6483,6 +6653,7 @@
   },
   {
     "id": "lonely-departure",
+    "imageUrl": "/images/thumb/9/93/Songs_lonely-departure.png/256px-Songs_lonely-departure.png",
     "artist": "Chroma",
     "releaseVersion": "1.16.0",
     "chapter": "Lanota联动",
@@ -6521,6 +6692,7 @@
   },
   {
     "id": "stasis",
+    "imageUrl": "/images/thumb/0/05/Songs_stasis.png/256px-Songs_stasis.png",
     "artist": "Maozon",
     "releaseVersion": "1.16.0",
     "chapter": "Lanota联动",
@@ -6559,6 +6731,7 @@
   },
   {
     "id": "freys-philosophy",
+    "imageUrl": "/images/thumb/2/23/Songs_freys-philosophy.png/256px-Songs_freys-philosophy.png",
     "artist": "Powerless",
     "releaseVersion": "1.16.0",
     "chapter": "Lanota联动",
@@ -6597,6 +6770,7 @@
   },
   {
     "id": "beautiful-days",
+    "imageUrl": "/images/thumb/0/0a/Songs_beautiful-days.png/256px-Songs_beautiful-days.png",
     "artist": "HyuN feat. Ryeorae",
     "releaseVersion": "2.0.0",
     "chapter": "基础歌曲",
@@ -6635,6 +6809,7 @@
   },
   {
     "id": "lullaby-for-an-android",
+    "imageUrl": "/images/thumb/c/c6/Songs_lullaby-for-an-android.png/256px-Songs_lullaby-for-an-android.png",
     "artist": "Sad Keyboard Guy feat. AKA",
     "releaseVersion": "2.0.0",
     "chapter": "基础歌曲",
@@ -6673,6 +6848,7 @@
   },
   {
     "id": "cynthia",
+    "imageUrl": "/images/thumb/d/df/Songs_cynthia.png/256px-Songs_cynthia.png",
     "artist": "nm-y & 7mai",
     "releaseVersion": "2.0.0",
     "chapter": "基础歌曲",
@@ -6711,6 +6887,7 @@
   },
   {
     "id": "waltz-for-lorelei",
+    "imageUrl": "/images/thumb/d/d8/Songs_waltz-for-lorelei.png/256px-Songs_waltz-for-lorelei.png",
     "artist": "Sobrem & 庭師",
     "releaseVersion": "2.0.0",
     "chapter": "基础歌曲",
@@ -6749,6 +6926,7 @@
   },
   {
     "id": "alfheims-faith",
+    "imageUrl": "/images/thumb/6/60/Songs_alfheims-faith.png/256px-Songs_alfheims-faith.png",
     "artist": "影虎。",
     "releaseVersion": "2.0.0",
     "chapter": "第三章 - 泾渭分明之地",
@@ -6793,6 +6971,7 @@
   },
   {
     "id": "arbitration",
+    "imageUrl": "/images/thumb/4/40/Songs_arbitration.png/256px-Songs_arbitration.png",
     "artist": "Jun Kuroda",
     "releaseVersion": "2.0.0",
     "chapter": "第三章 - 泾渭分明之地",
@@ -6831,6 +7010,7 @@
   },
   {
     "id": "heavens-cage",
+    "imageUrl": "/images/thumb/5/55/Songs_heavens-cage.png/256px-Songs_heavens-cage.png",
     "artist": "ETIA.",
     "releaseVersion": "2.0.0",
     "chapter": "第三章 - 泾渭分明之地",
@@ -6875,6 +7055,7 @@
   },
   {
     "id": "saku-hoshiboshi",
+    "imageUrl": "/images/thumb/d/d3/Songs_saku-hoshiboshi.png/256px-Songs_saku-hoshiboshi.png",
     "artist": "ユアミトス",
     "releaseVersion": "2.0.0",
     "chapter": "第三章 - 泾渭分明之地",
@@ -6920,6 +7101,7 @@
   },
   {
     "id": "secret-planet",
+    "imageUrl": "/images/thumb/1/13/Songs_secret-planet.png/256px-Songs_secret-planet.png",
     "artist": "みーに feat. みちとせ",
     "releaseVersion": "2.0.0",
     "chapter": "第三章 - 泾渭分明之地",
@@ -6959,6 +7141,7 @@
   },
   {
     "id": "epitaxy",
+    "imageUrl": "/images/thumb/9/93/Songs_epitaxy.png/256px-Songs_epitaxy.png",
     "artist": "Camellia",
     "releaseVersion": "2.0.0",
     "chapter": "第三章 - 泾渭分明之地",
@@ -6997,6 +7180,7 @@
   },
   {
     "id": "triad-of-dryad",
+    "imageUrl": "/images/thumb/b/bc/Songs_triad-of-dryad.png/256px-Songs_triad-of-dryad.png",
     "artist": "MYUKKE.",
     "releaseVersion": "2.0.0",
     "chapter": "第三章 - 泾渭分明之地",
@@ -7035,6 +7219,7 @@
   },
   {
     "id": "suito",
+    "imageUrl": "/images/thumb/7/79/Songs_suito.png/256px-Songs_suito.png",
     "artist": "隣の庭は青い(庭師+Aoi)",
     "releaseVersion": "2.0.0",
     "chapter": "第三章 - 泾渭分明之地",
@@ -7074,6 +7259,7 @@
   },
   {
     "id": "nee-nee-nee",
+    "imageUrl": "/images/thumb/4/47/Songs_nee-nee-nee.png/256px-Songs_nee-nee-nee.png",
     "artist": "PinocchioP",
     "releaseVersion": "2.0.0",
     "chapter": "PinocchioP联动",
@@ -7113,6 +7299,7 @@
   },
   {
     "id": "kami-ppoi-na",
+    "imageUrl": "/images/thumb/4/45/Songs_kami-ppoi-na.png/256px-Songs_kami-ppoi-na.png",
     "artist": "PinocchioP",
     "releaseVersion": "2.0.0",
     "chapter": "PinocchioP联动",
@@ -7152,6 +7339,7 @@
   },
   {
     "id": "non-breath-oblige",
+    "imageUrl": "/images/thumb/1/1d/Songs_non-breath-oblige.png/256px-Songs_non-breath-oblige.png",
     "artist": "PinocchioP",
     "releaseVersion": "2.0.0",
     "chapter": "PinocchioP联动",
@@ -7191,6 +7379,7 @@
   },
   {
     "id": "android-girl",
+    "imageUrl": "/images/thumb/8/8c/Songs_android-girl.png/256px-Songs_android-girl.png",
     "artist": "DECO*27",
     "releaseVersion": "2.0.0",
     "chapter": "DECO*27联动",
@@ -7230,6 +7419,7 @@
   },
   {
     "id": "the-vampire",
+    "imageUrl": "/images/thumb/c/c4/Songs_the-vampire.png/256px-Songs_the-vampire.png",
     "artist": "DECO*27",
     "releaseVersion": "2.0.0",
     "chapter": "DECO*27联动",
@@ -7269,6 +7459,7 @@
   },
   {
     "id": "otome-dissection",
+    "imageUrl": "/images/thumb/9/99/Songs_otome-dissection.png/256px-Songs_otome-dissection.png",
     "artist": "DECO*27",
     "releaseVersion": "2.0.0",
     "chapter": "DECO*27联动",
@@ -7308,6 +7499,7 @@
   },
   {
     "id": "anokumene",
+    "imageUrl": "/images/thumb/0/0d/Songs_anokumene.png/256px-Songs_anokumene.png",
     "artist": "Jun Kuroda",
     "releaseVersion": "2.0.0",
     "chapter": "星际之声",
@@ -7346,6 +7538,7 @@
   },
   {
     "id": "black-lair",
+    "imageUrl": "/images/thumb/f/fa/Songs_black-lair.png/256px-Songs_black-lair.png",
     "artist": "Sakuzyo feat. void  (violin: Katali)",
     "releaseVersion": "2.0.0",
     "chapter": "星际之声",
@@ -7384,6 +7577,7 @@
   },
   {
     "id": "bassline-yatteru-lol",
+    "imageUrl": "/images/thumb/0/03/Songs_bassline-yatteru-lol.png/256px-Songs_bassline-yatteru-lol.png",
     "artist": "かめりあ feat. ななひら",
     "releaseVersion": "2.0.2",
     "chapter": "星际之声",
@@ -7423,6 +7617,7 @@
   },
   {
     "id": "tenq",
+    "imageUrl": "/images/thumb/f/f4/Songs_tenq.png/256px-Songs_tenq.png",
     "artist": "天々まる (prod. Ponchi♪)",
     "releaseVersion": "2.1.0",
     "chapter": "基础歌曲",
@@ -7461,6 +7656,7 @@
   },
   {
     "id": "sonic-surge",
+    "imageUrl": "/images/thumb/9/93/Songs_sonic-surge.png/256px-Songs_sonic-surge.png",
     "artist": "TSAR feat. aran",
     "releaseVersion": "2.1.0",
     "chapter": "音波狂潮",
@@ -7499,6 +7695,7 @@
   },
   {
     "id": "torikororu-suteppu",
+    "imageUrl": "/images/thumb/1/12/Songs_torikororu-suteppu.png/256px-Songs_torikororu-suteppu.png",
     "artist": "あおぎり高校 & USAGI Production",
     "releaseVersion": "2.1.0",
     "chapter": "跨次元之约",
@@ -7538,6 +7735,7 @@
   },
   {
     "id": "tenshidearetara",
+    "imageUrl": "/images/thumb/6/6c/Songs_tenshidearetara.png/256px-Songs_tenshidearetara.png",
     "artist": "白百合リリィ & USAGI Production",
     "releaseVersion": "2.1.0",
     "chapter": "跨次元之约",
@@ -7577,6 +7775,7 @@
   },
   {
     "id": "devil-la6ue",
+    "imageUrl": "/images/thumb/1/12/Songs_devil-la6ue.png/256px-Songs_devil-la6ue.png",
     "artist": "天々まる (prod. U-ske)",
     "releaseVersion": "2.1.0",
     "chapter": "跨次元之约",
@@ -7615,6 +7814,7 @@
   },
   {
     "id": "chant-shite",
+    "imageUrl": "/images/thumb/a/a5/Songs_chant-shite.png/256px-Songs_chant-shite.png",
     "artist": "名取さな. &西郷・R・いろり (CV:名取さな) & USAGI Production",
     "releaseVersion": "2.1.0",
     "chapter": "跨次元之约",
@@ -7654,6 +7854,7 @@
   },
   {
     "id": "maho-shojo-intai-sengen",
+    "imageUrl": "/images/thumb/f/f6/Songs_maho-shojo-intai-sengen.png/256px-Songs_maho-shojo-intai-sengen.png",
     "artist": "Kijibato",
     "releaseVersion": "2.1.0",
     "chapter": "跨次元之约",
@@ -7693,6 +7894,7 @@
   },
   {
     "id": "sekigae-yatta",
+    "imageUrl": "/images/thumb/9/99/Songs_sekigae-yatta.png/256px-Songs_sekigae-yatta.png",
     "artist": "立秋 feat. ててんまる",
     "releaseVersion": "2.1.0",
     "chapter": "跨次元之约",
@@ -7732,6 +7934,7 @@
   },
   {
     "id": "aqua-theme",
+    "imageUrl": "/images/thumb/b/bc/Songs_aqua-theme.png/256px-Songs_aqua-theme.png",
     "artist": "HyuN & MIIM",
     "releaseVersion": "2.1.1",
     "chapter": "第一章 - 旅程的开始",
@@ -7770,6 +7973,7 @@
   },
   {
     "id": "nulctrl",
+    "imageUrl": "/images/thumb/8/80/Songs_nulctrl.png/256px-Songs_nulctrl.png",
     "artist": "Silentroom",
     "releaseVersion": "2.1.1",
     "chapter": "星际之声",
@@ -7808,6 +8012,7 @@
   },
   {
     "id": "fantasia-sonata-god-dance",
+    "imageUrl": "/images/thumb/c/c8/Songs_fantasia-sonata-god-dance.png/256px-Songs_fantasia-sonata-god-dance.png",
     "artist": "PYKAMIA vs. Sakuzyo",
     "releaseVersion": "2.1.1",
     "chapter": "星际之声",
@@ -7846,6 +8051,7 @@
   },
   {
     "id": "corps-sans-organes",
+    "imageUrl": "/images/thumb/b/b0/Songs_corps-sans-organes.png/256px-Songs_corps-sans-organes.png",
     "artist": "cybermiso",
     "releaseVersion": "2.2.0",
     "chapter": "基础歌曲",
@@ -7884,6 +8090,7 @@
   },
   {
     "id": "ego-eimi",
+    "imageUrl": "/images/thumb/6/67/Songs_ego-eimi.png/256px-Songs_ego-eimi.png",
     "artist": "BlackY feat. Risa Yuzuki",
     "releaseVersion": "2.2.0",
     "chapter": "Arcaea联动",
@@ -7922,6 +8129,7 @@
   },
   {
     "id": "divine-light-of-myriad",
+    "imageUrl": "/images/thumb/d/da/Songs_divine-light-of-myriad.png/256px-Songs_divine-light-of-myriad.png",
     "artist": "yoho",
     "releaseVersion": "2.2.0",
     "chapter": "Arcaea联动",
@@ -7960,6 +8168,7 @@
   },
   {
     "id": "antagonism",
+    "imageUrl": "/images/thumb/2/23/Songs_antagonism.png/256px-Songs_antagonism.png",
     "artist": "Yooh vs. siromaru",
     "releaseVersion": "2.2.0",
     "chapter": "Arcaea联动",
@@ -7998,6 +8207,7 @@
   },
   {
     "id": "abstruse-dilemma",
+    "imageUrl": "/images/thumb/0/02/Songs_abstruse-dilemma.png/256px-Songs_abstruse-dilemma.png",
     "artist": "Ashrount vs. 打打だいず",
     "releaseVersion": "2.2.0",
     "chapter": "Arcaea联动",
@@ -8036,6 +8246,7 @@
   },
   {
     "id": "vulcanus",
+    "imageUrl": "/images/thumb/1/18/Songs_vulcanus.png/256px-Songs_vulcanus.png",
     "artist": "Team Grimoire vs Aoi",
     "releaseVersion": "2.2.0",
     "chapter": "Arcaea联动",
@@ -8074,6 +8285,7 @@
   },
   {
     "id": "awaken-in-ruins",
+    "imageUrl": "/images/thumb/4/4b/Songs_awaken-in-ruins.png/256px-Songs_awaken-in-ruins.png",
     "artist": "Supa7onyz",
     "releaseVersion": "2.3.0",
     "chapter": "基础歌曲",
@@ -8112,6 +8324,7 @@
   },
   {
     "id": "turning-point",
+    "imageUrl": "/images/thumb/1/16/Songs_turning-point.png/256px-Songs_turning-point.png",
     "artist": "Junk",
     "releaseVersion": "2.3.0",
     "chapter": "基础歌曲",
@@ -8150,6 +8363,7 @@
   },
   {
     "id": "shijima-ni-ureu",
+    "imageUrl": "/images/thumb/e/e2/Songs_shijima-ni-ureu.png/256px-Songs_shijima-ni-ureu.png",
     "artist": "Reku Mochizuki feat. せやかて硝酸太郎",
     "releaseVersion": "2.3.0",
     "chapter": "范式：起源联动",
@@ -8189,6 +8403,7 @@
   },
   {
     "id": "veil-of-summer",
+    "imageUrl": "/images/thumb/f/fa/Songs_veil-of-summer.png/256px-Songs_veil-of-summer.png",
     "artist": "Maozon",
     "releaseVersion": "2.3.0",
     "chapter": "范式：起源联动",
@@ -8227,6 +8442,7 @@
   },
   {
     "id": "inner-norm",
+    "imageUrl": "/images/thumb/3/39/Songs_inner-norm.png/256px-Songs_inner-norm.png",
     "artist": "Zris",
     "releaseVersion": "2.3.0",
     "chapter": "范式：起源联动",
@@ -8265,6 +8481,7 @@
   },
   {
     "id": "echoes-of-the-forest",
+    "imageUrl": "/images/thumb/6/61/Songs_echoes-of-the-forest.png/256px-Songs_echoes-of-the-forest.png",
     "artist": "DJ Noriken",
     "releaseVersion": "2.3.0",
     "chapter": "范式：起源联动",
@@ -8303,6 +8520,7 @@
   },
   {
     "id": "kakuriyo",
+    "imageUrl": "/images/thumb/7/79/Songs_kakuriyo.png/256px-Songs_kakuriyo.png",
     "artist": "polysha",
     "releaseVersion": "2.3.0",
     "chapter": "范式：起源联动",
@@ -8341,6 +8559,7 @@
   },
   {
     "id": "cybernetic-vampire",
+    "imageUrl": "/images/thumb/1/1a/Songs_cybernetic-vampire.png/256px-Songs_cybernetic-vampire.png",
     "artist": "void (Mournfinale)",
     "releaseVersion": "2.3.0",
     "chapter": "范式：起源联动",
@@ -8379,6 +8598,7 @@
   },
   {
     "id": "shattered-sky-after-rain",
+    "imageUrl": "/images/thumb/2/2b/Songs_shattered-sky-after-rain.png/256px-Songs_shattered-sky-after-rain.png",
     "artist": "Lorph & Elexia",
     "releaseVersion": "2.4.0",
     "chapter": "基础歌曲",
@@ -8417,6 +8637,7 @@
   },
   {
     "id": "cosmogyral",
+    "imageUrl": "/images/thumb/4/4a/Songs_cosmogyral.png/256px-Songs_cosmogyral.png",
     "artist": "Altermis & Darren",
     "releaseVersion": "2.4.0",
     "chapter": "基础歌曲",
@@ -8455,6 +8676,7 @@
   },
   {
     "id": "one-way-street",
+    "imageUrl": "/images/thumb/a/a2/Songs_one-way-street.png/256px-Songs_one-way-street.png",
     "artist": "siqlo",
     "releaseVersion": "2.4.0",
     "chapter": "基础歌曲",
@@ -8493,6 +8715,7 @@
   },
   {
     "id": "hypersynthetic",
+    "imageUrl": "/images/thumb/7/7c/Songs_hypersynthetic.png/256px-Songs_hypersynthetic.png",
     "artist": "Akira Complex",
     "releaseVersion": "2.4.0",
     "chapter": "炽热之心",
@@ -8531,6 +8754,7 @@
   },
   {
     "id": "blackhole",
+    "imageUrl": "/images/thumb/d/d5/Songs_blackhole.png/256px-Songs_blackhole.png",
     "artist": "litmus*",
     "releaseVersion": "2.4.0",
     "chapter": "炽热之心",
@@ -8569,6 +8793,7 @@
   },
   {
     "id": "hold-your-fire",
+    "imageUrl": "/images/thumb/0/08/Songs_hold-your-fire.png/256px-Songs_hold-your-fire.png",
     "artist": "Yooh",
     "releaseVersion": "2.4.0",
     "chapter": "炽热之心",
@@ -8607,6 +8832,7 @@
   },
   {
     "id": "infection",
+    "imageUrl": "/images/thumb/1/1d/Songs_infection.png/256px-Songs_infection.png",
     "artist": "ARForest",
     "releaseVersion": "2.4.0",
     "chapter": "炽热之心",
@@ -8645,6 +8871,7 @@
   },
   {
     "id": "feeling-blue",
+    "imageUrl": "/images/thumb/f/fb/Songs_feeling-blue.png/256px-Songs_feeling-blue.png",
     "artist": "RiraN",
     "releaseVersion": "2.4.0",
     "chapter": "炽热之心",
@@ -8683,6 +8910,7 @@
   },
   {
     "id": "deus-judicium",
+    "imageUrl": "/images/thumb/c/c2/Songs_deus-judicium.png/256px-Songs_deus-judicium.png",
     "artist": "黒皇帝 vs MIssionary",
     "releaseVersion": "2.4.0",
     "chapter": "炽热之心",
@@ -8721,6 +8949,7 @@
   },
   {
     "id": "flashdance",
+    "imageUrl": "/images/thumb/e/ee/Songs_flashdance.png/256px-Songs_flashdance.png",
     "artist": "litmus*",
     "releaseVersion": "2.5.0",
     "chapter": "基础歌曲",
@@ -8759,6 +8988,7 @@
   },
   {
     "id": "unshakable",
+    "imageUrl": "/images/thumb/6/6f/Songs_unshakable.png/256px-Songs_unshakable.png",
     "artist": "RiraN",
     "releaseVersion": "2.5.0",
     "chapter": "音脉相承",
@@ -8797,6 +9027,7 @@
   },
   {
     "id": "eos",
+    "imageUrl": "/images/thumb/f/fd/Songs_eos.png/256px-Songs_eos.png",
     "artist": "ginkiha",
     "releaseVersion": "2.5.0",
     "chapter": "音脉相承",
@@ -8835,6 +9066,7 @@
   },
   {
     "id": "chronomia",
+    "imageUrl": "/images/thumb/b/b3/Songs_chronomia.png/256px-Songs_chronomia.png",
     "artist": "Lime",
     "releaseVersion": "2.5.0",
     "chapter": "音脉相承",
@@ -8873,6 +9105,7 @@
   },
   {
     "id": "how-to-make-otoge-kyoku",
+    "imageUrl": "/images/thumb/f/fb/Songs_how-to-make-otoge-kyoku.png/256px-Songs_how-to-make-otoge-kyoku.png",
     "artist": "F Rabbeat ft. マスタード",
     "releaseVersion": "2.5.0",
     "chapter": "音脉相承",
@@ -8912,6 +9145,7 @@
   },
   {
     "id": "destr0yer",
+    "imageUrl": "/images/thumb/5/52/Songs_destr0yer.png/256px-Songs_destr0yer.png",
     "artist": "Sakuzyo feat. Nikki Simmons",
     "releaseVersion": "2.5.0",
     "chapter": "音脉相承",
@@ -8950,6 +9184,7 @@
   },
   {
     "id": "re-end-of-a-dream",
+    "imageUrl": "/images/thumb/b/bb/Songs_re-end-of-a-dream.png/256px-Songs_re-end-of-a-dream.png",
     "artist": "uma vs. モリモリあつし",
     "releaseVersion": "2.5.0",
     "chapter": "音脉相承",
@@ -8988,6 +9223,7 @@
   },
   {
     "id": "shiragiku",
+    "imageUrl": "/images/thumb/2/2f/Songs_shiragiku.png/256px-Songs_shiragiku.png",
     "artist": "立秋",
     "releaseVersion": "2.5.1",
     "chapter": "基础歌曲",
@@ -9027,6 +9263,7 @@
   },
   {
     "id": "song-for-again",
+    "imageUrl": "/images/thumb/b/ba/Songs_song-for-again.png/256px-Songs_song-for-again.png",
     "artist": "TSAR feat.永雏塔菲",
     "releaseVersion": "2.5.1",
     "chapter": "音波狂潮",
@@ -9066,6 +9303,7 @@
   },
   {
     "id": "sweet-and-astringent-dreams",
+    "imageUrl": "/images/thumb/c/c0/Songs_sweet-and-astringent-dreams.png/256px-Songs_sweet-and-astringent-dreams.png",
     "artist": "YUC'e feat.早稻叽",
     "releaseVersion": "2.5.1",
     "chapter": "音波狂潮",
@@ -9105,6 +9343,7 @@
   },
   {
     "id": "love-splash",
+    "imageUrl": "/images/thumb/d/d6/Songs_love-splash.png/256px-Songs_love-splash.png",
     "artist": "INuya",
     "releaseVersion": "2.6.0",
     "chapter": "基础歌曲",
@@ -9143,6 +9382,7 @@
   },
   {
     "id": "starlight-traveler",
+    "imageUrl": "/images/thumb/d/d0/Songs_starlight-traveler.png/256px-Songs_starlight-traveler.png",
     "artist": "ああああ＋打打だいず",
     "releaseVersion": "2.6.0",
     "chapter": "新时代",
@@ -9181,6 +9421,7 @@
   },
   {
     "id": "innocence-keeper",
+    "imageUrl": "/images/thumb/d/d2/Songs_innocence-keeper.png/256px-Songs_innocence-keeper.png",
     "artist": "Cansol",
     "releaseVersion": "2.6.0",
     "chapter": "新时代",
@@ -9219,6 +9460,7 @@
   },
   {
     "id": "enter-magical-code",
+    "imageUrl": "/images/thumb/3/3d/Songs_enter-magical-code.png/256px-Songs_enter-magical-code.png",
     "artist": "Raphiiel",
     "releaseVersion": "2.6.0",
     "chapter": "新时代",
@@ -9257,6 +9499,7 @@
   },
   {
     "id": "toys-nightlife-area",
+    "imageUrl": "/images/thumb/9/9f/Songs_toys-nightlife-area.png/256px-Songs_toys-nightlife-area.png",
     "artist": "ShiBa",
     "releaseVersion": "2.6.0",
     "chapter": "新时代",
@@ -9295,6 +9538,7 @@
   },
   {
     "id": "uchronia",
+    "imageUrl": "/images/thumb/e/e8/Songs_uchronia.png/256px-Songs_uchronia.png",
     "artist": "7mai",
     "releaseVersion": "2.6.0",
     "chapter": "新时代",
@@ -9339,6 +9583,7 @@
   },
   {
     "id": "quadruplicity",
+    "imageUrl": "/images/thumb/c/cd/Songs_quadruplicity.png/256px-Songs_quadruplicity.png",
     "artist": "LucaProject vs NeLiME",
     "releaseVersion": "2.6.0",
     "chapter": "新时代",
@@ -9377,6 +9622,7 @@
   },
   {
     "id": "burn-it-up",
+    "imageUrl": "/images/thumb/3/36/Songs_burn-it-up.png/256px-Songs_burn-it-up.png",
     "artist": "负离子SYNTHETIC feat.黑泽诺亚NOIR",
     "releaseVersion": "2.6.0",
     "chapter": "音波狂潮",
@@ -9416,6 +9662,7 @@
   },
   {
     "id": "link-x-lins",
+    "imageUrl": "/images/thumb/3/38/Songs_link-x-lins.png/256px-Songs_link-x-lins.png",
     "artist": "Halv",
     "releaseVersion": "2.6.0",
     "chapter": "Rizline联动",
@@ -9454,6 +9701,7 @@
   },
   {
     "id": "clock-paradox",
+    "imageUrl": "/images/thumb/9/9e/Songs_clock-paradox.png/256px-Songs_clock-paradox.png",
     "artist": "WyvernP",
     "releaseVersion": "2.6.0",
     "chapter": "Rizline联动",
@@ -9492,6 +9740,7 @@
   },
   {
     "id": "brave-road",
+    "imageUrl": "/images/thumb/2/24/Songs_brave-road.png/256px-Songs_brave-road.png",
     "artist": "uma vs. モリモリあつし",
     "releaseVersion": "2.6.0",
     "chapter": "Rizline联动",
@@ -9530,6 +9779,7 @@
   },
   {
     "id": "fall-in-me",
+    "imageUrl": "/images/thumb/2/2b/Songs_fall-in-me.png/256px-Songs_fall-in-me.png",
     "artist": "memex",
     "releaseVersion": "2.6.0",
     "chapter": "星觅典藏",
@@ -9568,6 +9818,7 @@
   },
   {
     "id": "night-sky",
+    "imageUrl": "/images/thumb/6/6e/Songs_night-sky.png/256px-Songs_night-sky.png",
     "artist": "Neko Hacker",
     "releaseVersion": "2.6.0",
     "chapter": "星觅典藏",
@@ -9606,6 +9857,7 @@
   },
   {
     "id": "enchanted-love",
+    "imageUrl": "/images/thumb/4/4a/Songs_enchanted-love.png/256px-Songs_enchanted-love.png",
     "artist": "linear ring",
     "releaseVersion": "2.6.0",
     "chapter": "星觅典藏",

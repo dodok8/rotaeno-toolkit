@@ -43,6 +43,7 @@ export function parseRotaenoSong(document: Document): Song {
   const imageLink = mainTable.querySelector(
     'td[style="height:256px;width:256px"] a'
   )
+  const imageOriginUrl = imageLink?.querySelector('img')?.getAttribute('src')
   const imageUrl = imageLink?.getAttribute('href') || ''
   const idMatch = imageUrl.match(/Songs_(.+?)\.png/)
   const id = idMatch ? idMatch[1] : ''
@@ -146,6 +147,7 @@ export function parseRotaenoSong(document: Document): Song {
   // Construct the final object
   return {
     id,
+    imageUrl: imageOriginUrl as string,
     artist: getFieldValue('曲师'),
     releaseVersion: getFieldValue('更新版本').replace('v', ''),
     chapter: getFieldValue('曲包'),
