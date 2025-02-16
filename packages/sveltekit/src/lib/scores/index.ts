@@ -1,3 +1,5 @@
+import type { ChartWithScore, Score } from '@rotaeno-toolkit/shared-types'
+
 export function calculateSongRating(difficulty: number, achievementRate: number): number {
   let rating: number
 
@@ -29,4 +31,29 @@ export function calculateSongRating(difficulty: number, achievementRate: number)
 
   // Round to four decimal places
   return Math.round(rating * 10000) / 10000
+}
+
+export function getBest30(scores: Score[]): ChartWithScore[] {
+  return scores
+    .flatMap((song): ChartWithScore[] =>
+      song.charts
+        .filter((chart) => (chart.rating ?? 0) > 0)
+        .map((chart) => ({
+          songId: song.id,
+          songTitle: song.title_localized.default,
+          imageUrl: song.imageUrl,
+          difficultyLevel: chart.difficultyLevel,
+          difficultyDecimal: chart.difficultyDecimal,
+          score: chart.score ?? 0,
+          rating: chart.rating ?? 0,
+        }))
+    )
+    .sort((a, b) => b.rating - a.rating)
+    .slice(0, 30)
+}
+
+export function getBest30Average(charts: ChartWithScore[]): number {
+  return charts.length > 0
+    ? charts.reduce((sum, chart) => sum + chart.rating, 0) / charts.length
+    : 0
 }
