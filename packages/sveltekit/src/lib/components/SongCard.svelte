@@ -1,15 +1,11 @@
 <script lang="ts">
   import type { Song } from '@rotaeno-toolkit/shared-types'
+  import { calculateSongRating } from '$lib/scores'
 
   let { song }: { song: Song } = $props()
 
-  const calcRating = (score: number, difficultyDecimal: number) => {
-    return difficultyDecimal + 0.5
-  }
-
-  // 각 차트별 계산된 점수를 저장할 상태 추가
   let calculatedScores: Record<string, number> = $state({})
-  
+
   const handleInput = (
     event: Event,
     chart: { difficultyLevel: string; difficultyDecimal: number },
@@ -18,7 +14,7 @@
     const value = (event.target as HTMLInputElement).value
     const numValue = parseFloat(value)
     if (!isNaN(numValue)) {
-      const rating = calcRating(numValue, chart.difficultyDecimal)
+      const rating = calculateSongRating(chart.difficultyDecimal, numValue)
       calculatedScores[`${songId}_${chart.difficultyLevel}`] = rating
     }
   }
