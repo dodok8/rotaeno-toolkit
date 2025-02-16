@@ -1,47 +1,41 @@
 <script lang="ts">
-  import type { Song } from '@rotaeno-toolkit/shared-types'
+  import type { Score } from '@rotaeno-toolkit/shared-types'
   import { calculateSongRating } from '$lib/scores'
 
-  let { song }: { song: Song } = $props()
+  let { score = $bindable() }: { score: Score } = $props()
 
-  let calculatedScores: Record<string, number> = $state({})
-
-  const handleInput = (
-    event: Event,
-    chart: { difficultyLevel: string; difficultyDecimal: number },
-    songId: string
-  ) => {
-    const value = (event.target as HTMLInputElement).value
-    const numValue = parseFloat(value)
-    if (!isNaN(numValue)) {
-      const rating = calculateSongRating(chart.difficultyDecimal, numValue)
-      calculatedScores[`${songId}_${chart.difficultyLevel}`] = rating
-    }
-  }
+  // 입력값이 변경될 때마다 rating 자동 계산
+  $effect(() => {
+    score.charts.forEach((chart, idx) => {
+      if (chart.score) {
+        chart.rating = calculateSongRating(chart.difficultyDecimal, chart.score)
+      }
+    })
+  })
 </script>
 
-<div class="song-card">
-  <div class="song-header">
+<div class="score-card">
+  <div class="score-header">
     <img
-      class="song-image"
-      alt={`File: songs ${song.id}.png`}
+      class="score-image"
+      alt={`File: songs ${score.id}.png`}
       loading="lazy"
-      src={`https://wiki.rotaeno.cn/${song.imageUrl}`}
+      src={`https://wiki.rotaeno.cn/${score.imageUrl}`}
     />
-    <div class="song-title">
+    <div class="score-title">
       <h2>
-        {#each Object.entries(song.title_localized) as info, idx}
+        {#each Object.entries(score.title_localized) as info, idx}
           {info[1]}
-          {#if idx == Object.entries(song.title_localized).length - 1}{:else}{' / '}
+          {#if idx == Object.entries(score.title_localized).length - 1}{:else}{' / '}
           {/if}
         {/each}
       </h2>
-      <span class="song-id">ID: {song.id}</span>
+      <span class="score-id">ID: {score.id}</span>
     </div>
   </div>
 
   <div class="charts-container">
-    {#each song.charts as chart (chart.difficultyLevel)}
+    {#each score.charts as chart, idx (chart.difficultyLevel)}
       <div class="chart-row">
         <div class="difficulty-badge">
           <span class="level">{chart.difficultyLevel}</span>
@@ -49,18 +43,13 @@
         </div>
         <div class="score-container">
           <span class="calculated-score">
-            {#if calculatedScores[`${song.id}_${chart.difficultyLevel}`]}
-              {calculatedScores[`${song.id}_${chart.difficultyLevel}`].toFixed(2)}
-            {:else}
-              0
-            {/if}
+            {chart.rating ?? 0}
           </span>
           <input
             class="score-input"
-            id={`${song.id}_${chart.difficultyLevel}`}
+            id={`${score.id}_${chart.difficultyLevel}`}
             type="number"
-            placeholder="Enter score"
-            oninput={(e) => handleInput(e, chart, song.id)}
+            bind:value={chart.score}
           />
         </div>
       </div>
@@ -70,7 +59,7 @@
 
 <style>
   /* 카드 기본 스타일 */
-  .song-card {
+  .score-card {
     container-type: inline-size;
     background: #fff;
     border-radius: clamp(0.75rem, 2vw, 1rem);
@@ -80,19 +69,19 @@
     transition: all 0.2s ease;
   }
 
-  .song-card:hover {
+  .score-card:hover {
     transform: translateY(-2px);
     box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1);
   }
 
   /* 헤더 영역 */
-  .song-header {
+  .score-header {
     display: flex;
     gap: clamp(1rem, 2vw, 1.5rem);
     margin-bottom: clamp(1rem, 2vw, 1.5rem);
   }
 
-  .song-image {
+  .score-image {
     width: clamp(120px, 30vw, 180px);
     height: auto;
     aspect-ratio: 1;
@@ -100,13 +89,13 @@
     object-fit: cover;
   }
 
-  .song-title {
+  .score-title {
     display: flex;
     flex-direction: column;
     justify-content: center;
   }
 
-  .song-title h2 {
+  .score-title h2 {
     margin: 0;
     font-size: clamp(1.25rem, 2vw + 1rem, 1.5rem);
     font-weight: 600;
@@ -114,7 +103,7 @@
     line-height: 1.3;
   }
 
-  .song-id {
+  .score-id {
     color: #666;
     font-size: clamp(0.75rem, 1vw + 0.5rem, 0.875rem);
     margin-top: clamp(0.375rem, 1vw, 0.5rem);
@@ -212,13 +201,13 @@
 
   /* 컨테이너 쿼리 */
   @container (max-width: 500px) {
-    .song-header {
+    .score-header {
       flex-direction: column;
       align-items: center;
       text-align: center;
     }
 
-    .song-title {
+    .score-title {
       align-items: center;
     }
   }
@@ -240,16 +229,16 @@
 
   /* 다크 모드 지원 */
   @media (prefers-color-scheme: dark) {
-    .song-card {
+    .score-card {
       background: #1e293b;
       box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.2);
     }
 
-    .song-title h2 {
+    .score-title h2 {
       color: #e2e8f0;
     }
 
-    .song-id {
+    .score-id {
       color: #94a3b8;
     }
 
@@ -283,19 +272,19 @@
 
   /* 접근성을 위한 스타일 */
   @media (prefers-reduced-motion: reduce) {
-    .song-card,
+    .score-card,
     .score-input {
       transition: none;
     }
 
-    .song-card:hover {
+    .score-card:hover {
       transform: none;
     }
   }
 
   /* 인쇄를 위한 스타일 */
   @media print {
-    .song-card {
+    .score-card {
       box-shadow: none;
       margin: 0;
       padding: 1rem;
