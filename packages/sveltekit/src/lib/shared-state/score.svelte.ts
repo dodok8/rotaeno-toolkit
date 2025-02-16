@@ -1,3 +1,4 @@
+import { getBest30, getBest30Average } from '$lib/scores'
 import type { Score, Song } from '@rotaeno-toolkit/shared-types'
 import songsData from '@rotaeno-toolkit/wiki-crawler/data/songs.json'
 
@@ -20,6 +21,17 @@ const initializeScores = (songs: Song[]): Score[] => {
 }
 
 const songs = songsData as Song[]
-const scores = $state(initializeScores(songs))
+
+class Scores {
+  scores: Score[] = $state([])
+  best30Songs = $derived(getBest30(this.scores))
+  best30Average = $derived(getBest30Average(this.best30Songs))
+
+  constructor(song: Song[]) {
+    this.scores = initializeScores(song)
+  }
+}
+
+const scores = new Scores(songs)
 
 export { scores }
