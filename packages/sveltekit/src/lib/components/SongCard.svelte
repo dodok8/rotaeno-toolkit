@@ -1,6 +1,7 @@
 <script lang="ts">
   import type { Score } from '@rotaeno-toolkit/shared-types'
   import { calculateSongRating } from '$lib/scores'
+  import { scores } from '$lib/shared-state/score.svelte';
 
   let { score = $bindable() }: { score: Score } = $props()
 
@@ -9,6 +10,7 @@
     score.charts.forEach((chart, idx) => {
       if (chart.score) {
         chart.rating = calculateSongRating(chart.difficultyDecimal, chart.score)
+        scores.save()
       }
     })
   })
