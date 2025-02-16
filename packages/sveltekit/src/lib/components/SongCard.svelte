@@ -1,17 +1,29 @@
 <script lang="ts">
   import type { Score } from '@rotaeno-toolkit/shared-types'
   import { calculateSongRating } from '$lib/scores'
+  import { scores } from '$lib/stores/score.svelte'
 
-  let { score = $bindable() }: { score: Score } = $props()
+  let { score }: { score: Score } = $props()
 
-  // 입력값이 변경될 때마다 rating 자동 계산
-  $effect(() => {
-    score.charts.forEach((chart, idx) => {
-      if (chart.score) {
-        chart.rating = calculateSongRating(chart.difficultyDecimal, chart.score)
+  const handleScoreInput = (event: Event, chart: Score['charts'][number], idx: number) => {
+    const input = event.target as HTMLInputElement
+    const newScore = parseInt(input.value)
+    
+    if (!isNaN(newScore) && newScore >= 0 && newScore <= 1010000) {
+      // Update score and calculate new rating
+      const newRating = calculateSongRating(chart.difficultyDecimal, newScore)
+      
+      // Update the chart with new score and rating
+      score.charts[idx] = {
+        ...chart,
+        score: newScore,
+        rating: newRating
       }
-    })
-  })
+
+      // Update the scores store
+      $scores = $scores.map(s => s.id === score.id ? score : s)
+    }
+  }
 </script>
 
 <div class="score-card">
@@ -43,13 +55,16 @@
         </div>
         <div class="score-container">
           <span class="calculated-score">
-            {chart.rating ?? 0}
+            {chart.rating?.toFixed(2) ?? '0.00'}
           </span>
           <input
             class="score-input"
             id={`${score.id}_${chart.difficultyLevel}`}
             type="number"
-            bind:value={chart.score}
+            min="0"
+            max="1010000"
+            value={chart.score ?? ''}
+            oninput={(e) => handleScoreInput(e, chart, idx)}
           />
         </div>
       </div>
