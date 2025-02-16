@@ -35,3 +35,13 @@ export interface Score {
     rating: number;
   }[];
 }
+
+export interface ChartWithScore {
+  songId: string;
+  songTitle: string;
+  imageUrl: string;
+  difficultyLevel: string;
+  difficultyDecimal: number;
+  score: number;
+  rating: number;
+}
