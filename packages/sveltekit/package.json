@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "@rotaeno-toolkit/shared-types": "workspace:*",
-    "@rotaeno-toolkit/wiki-crawler": "workspace:*"
+    "@rotaeno-toolkit/wiki-crawler": "workspace:*",
+    "@sveltejs/adapter-node": "^5.2.12"
   }
 }
