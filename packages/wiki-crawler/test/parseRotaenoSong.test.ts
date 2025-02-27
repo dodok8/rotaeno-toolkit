@@ -9,6 +9,8 @@ describe('parseRotaenoSong', () => {
 
     expect(result).toEqual({
       id: 'xinzang-bing',
+      imageUrl:
+        '/images/thumb/b/b1/Songs_xinzang-bing.png/256px-Songs_xinzang-bing.png',
       artist: 'HyuN feat. HUBOG',
       releaseVersion: '1.0.3',
       chapter: '基础歌曲',
@@ -56,6 +58,7 @@ describe('parseRotaenoSong', () => {
 
     expect(result).toEqual({
       id: 'irony',
+      imageUrl: '/images/thumb/4/4e/Songs_irony.png/256px-Songs_irony.png',
       artist: 'すこっぷ',
       releaseVersion: '1.9.0',
       chapter: '自未来的歌',
@@ -101,6 +104,8 @@ describe('parseRotaenoSong', () => {
 
     expect(result).toEqual({
       id: 'heavens-cage',
+      imageUrl:
+        '/images/thumb/5/55/Songs_heavens-cage.png/256px-Songs_heavens-cage.png',
       artist: 'ETIA.',
       releaseVersion: '2.0.0',
       chapter: '第三章 - 泾渭分明之地',
