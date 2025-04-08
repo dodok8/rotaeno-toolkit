@@ -23,14 +23,20 @@ export function parseSongList(document: Document): string[] {
   // Process all tables and flatten the results into a single array
   return Array.from(tables)
     .flatMap((table) =>
-      Array.from(table.querySelectorAll('tbody tr td:nth-child(2)')).map(
-        (cell) => {
-          const link = cell.querySelector('a')
+      Array.from(table.querySelectorAll('tbody tr'))
+        .filter((row) => {
+          const dateCell = row.querySelector('td:nth-child(5)')
+          const dateText = dateCell?.textContent?.trim() || ''
+
+          return !dateText.includes('04/01')
+        })
+        .map((row) => {
+          const cell = row.querySelector('td:nth-child(2)')
+          const link = cell?.querySelector('a')
           return link
             ? link.textContent?.trim() || ''
-            : cell.textContent?.trim() || ''
-        }
-      )
+            : cell?.textContent?.trim() || ''
+        })
     )
     .filter((title) => title !== '')
 }
